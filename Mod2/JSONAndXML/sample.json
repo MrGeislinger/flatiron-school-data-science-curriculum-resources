@@ -1,0 +1,1048 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "8dhd-zvi6",
+      "name" : "2001 Campaign Payments",
+      "attribution" : "Campaign Finance Board (CFB)",
+      "averageRating" : 0,
+      "category" : "City Government",
+      "createdAt" : 1315950830,
+      "description" : "A listing of public funds payments for candidates for City office during the 2001 election cycle",
+      "displayType" : "table",
+      "downloadCount" : 1470,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1536596254,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 4140996,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1371845179,
+      "publicationGroup" : 240370,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1371845177,
+      "rowsUpdatedBy" : "5fuc-pqz2",
+      "tableId" : 932968,
+      "totalTimesRated" : 0,
+      "viewCount" : 233,
+      "viewLastModified" : 1536605717,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 75768833,
+        "name" : "ELECTION",
+        "dataTypeName" : "number",
+        "fieldName" : "election",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1518991,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 284,
+          "average" : "2001",
+          "largest" : "2001",
+          "null" : 1,
+          "top" : [ {
+            "item" : "2001",
+            "count" : 20
+          } ],
+          "smallest" : "2001",
+          "sum" : "568284"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 75768834,
+        "name" : "CANDID",
+        "dataTypeName" : "text",
+        "fieldName" : "candid",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1518992,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 285,
+          "largest" : "YA",
+          "null" : 0,
+          "top" : [ {
+            "item" : "490",
+            "count" : 20
+          }, {
+            "item" : "577",
+            "count" : 19
+          }, {
+            "item" : "GF",
+            "count" : 18
+          }, {
+            "item" : "265",
+            "count" : 17
+          }, {
+            "item" : "549",
+            "count" : 16
+          }, {
+            "item" : "260",
+            "count" : 15
+          }, {
+            "item" : "DH",
+            "count" : 14
+          }, {
+            "item" : "168",
+            "count" : 13
+          }, {
+            "item" : "561",
+            "count" : 12
+          }, {
+            "item" : "317",
+            "count" : 11
+          }, {
+            "item" : "240",
+            "count" : 10
+          }, {
+            "item" : "B1",
+            "count" : 9
+          }, {
+            "item" : "337",
+            "count" : 8
+          }, {
+            "item" : "202",
+            "count" : 7
+          }, {
+            "item" : "DP",
+            "count" : 6
+          }, {
+            "item" : "554",
+            "count" : 5
+          }, {
+            "item" : "529",
+            "count" : 4
+          }, {
+            "item" : "521",
+            "count" : 3
+          }, {
+            "item" : "CY",
+            "count" : 2
+          }, {
+            "item" : "327",
+            "count" : 1
+          } ],
+          "smallest" : "148"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768835,
+        "name" : "CANDNAME",
+        "dataTypeName" : "text",
+        "fieldName" : "candname",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1518993,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 285,
+          "largest" : "Zett, Lori M",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Taitt, Samuel A",
+            "count" : 20
+          }, {
+            "item" : "Taliaferro, Phyllis",
+            "count" : 19
+          }, {
+            "item" : "Taveras, Germania",
+            "count" : 18
+          }, {
+            "item" : "Thakral, Jairam D",
+            "count" : 17
+          }, {
+            "item" : "Thomas, Carl W",
+            "count" : 16
+          }, {
+            "item" : "Thompson, Jr., William C",
+            "count" : 15
+          }, {
+            "item" : "Tiraco, Joseph E",
+            "count" : 14
+          }, {
+            "item" : "Toney, Vaughan",
+            "count" : 13
+          }, {
+            "item" : "Toppin, Roger N",
+            "count" : 12
+          }, {
+            "item" : "Torres, Mario A",
+            "count" : 11
+          }, {
+            "item" : "Vallone, Jr., Peter F",
+            "count" : 10
+          }, {
+            "item" : "Vallone, Peter F",
+            "count" : 9
+          }, {
+            "item" : "Van Bramer, James G",
+            "count" : 8
+          }, {
+            "item" : "Vann, Albert",
+            "count" : 7
+          }, {
+            "item" : "Vargas, Ruben Dario",
+            "count" : 6
+          }, {
+            "item" : "Vassos, Sandra",
+            "count" : 5
+          }, {
+            "item" : "Vernet, Jean D",
+            "count" : 4
+          }, {
+            "item" : "Viest, Nicholas D",
+            "count" : 3
+          }, {
+            "item" : "Villaverde, Sergio",
+            "count" : 2
+          }, {
+            "item" : "Vogel, Mark H",
+            "count" : 1
+          } ],
+          "smallest" : "Aboulafia, Sandy"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768836,
+        "name" : "OFFICECD",
+        "dataTypeName" : "number",
+        "fieldName" : "officecd",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1518994,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 284,
+          "average" : "4.700704225352113",
+          "largest" : "5",
+          "null" : 1,
+          "top" : [ {
+            "item" : "5",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          }, {
+            "item" : "4",
+            "count" : 17
+          }, {
+            "item" : "2",
+            "count" : 16
+          } ],
+          "smallest" : "1",
+          "sum" : "1335"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768837,
+        "name" : "OFFICEBORO",
+        "dataTypeName" : "text",
+        "fieldName" : "officeboro",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1518995,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 21,
+          "largest" : "X",
+          "null" : 264,
+          "top" : [ {
+            "item" : "OFFICEBORO",
+            "count" : 20
+          }, {
+            "item" : "X",
+            "count" : 19
+          }, {
+            "item" : "M",
+            "count" : 18
+          }, {
+            "item" : "K",
+            "count" : 17
+          }, {
+            "item" : "Q",
+            "count" : 16
+          }, {
+            "item" : "S",
+            "count" : 15
+          } ],
+          "smallest" : "K"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768838,
+        "name" : "OFFICEDIST",
+        "dataTypeName" : "number",
+        "fieldName" : "officedist",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1518996,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 245,
+          "average" : "26.33061224489796",
+          "largest" : "51",
+          "null" : 40,
+          "top" : [ {
+            "item" : "7",
+            "count" : 20
+          }, {
+            "item" : "32",
+            "count" : 19
+          }, {
+            "item" : "37",
+            "count" : 18
+          }, {
+            "item" : "28",
+            "count" : 17
+          }, {
+            "item" : "19",
+            "count" : 16
+          }, {
+            "item" : "39",
+            "count" : 15
+          }, {
+            "item" : "35",
+            "count" : 14
+          }, {
+            "item" : "42",
+            "count" : 13
+          }, {
+            "item" : "31",
+            "count" : 12
+          }, {
+            "item" : "6",
+            "count" : 11
+          }, {
+            "item" : "47",
+            "count" : 10
+          }, {
+            "item" : "20",
+            "count" : 9
+          }, {
+            "item" : "1",
+            "count" : 8
+          }, {
+            "item" : "27",
+            "count" : 7
+          }, {
+            "item" : "26",
+            "count" : 6
+          }, {
+            "item" : "10",
+            "count" : 5
+          }, {
+            "item" : "34",
+            "count" : 4
+          }, {
+            "item" : "45",
+            "count" : 3
+          }, {
+            "item" : "40",
+            "count" : 2
+          }, {
+            "item" : "12",
+            "count" : 1
+          } ],
+          "smallest" : "1",
+          "sum" : "6451"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768839,
+        "name" : "CANCLASS",
+        "dataTypeName" : "text",
+        "fieldName" : "canclass",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1518997,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 285,
+          "largest" : "P",
+          "null" : 0,
+          "top" : [ {
+            "item" : "CANCLASS",
+            "count" : 20
+          }, {
+            "item" : "P",
+            "count" : 19
+          } ],
+          "smallest" : "CANCLASS"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768840,
+        "name" : "PRIMARYPAY",
+        "dataTypeName" : "number",
+        "fieldName" : "primarypay",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1518998,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 284,
+          "average" : "112243.9612676056",
+          "largest" : "2846148.00",
+          "null" : 1,
+          "top" : [ {
+            "item" : "75350.00",
+            "count" : 20
+          }, {
+            "item" : "0",
+            "count" : 19
+          }, {
+            "item" : "91333.00",
+            "count" : 18
+          }, {
+            "item" : "69780.00",
+            "count" : 17
+          }, {
+            "item" : "22172.00",
+            "count" : 16
+          }, {
+            "item" : "65356.00",
+            "count" : 15
+          }, {
+            "item" : "11423.00",
+            "count" : 14
+          }, {
+            "item" : "60152.00",
+            "count" : 13
+          }, {
+            "item" : "75040.00",
+            "count" : 12
+          }, {
+            "item" : "62436.00",
+            "count" : 11
+          }, {
+            "item" : "42075.00",
+            "count" : 10
+          }, {
+            "item" : "74920.00",
+            "count" : 9
+          }, {
+            "item" : "38088.00",
+            "count" : 8
+          }, {
+            "item" : "74850.00",
+            "count" : 7
+          }, {
+            "item" : "89502.00",
+            "count" : 6
+          }, {
+            "item" : "74350.00",
+            "count" : 5
+          }, {
+            "item" : "58348.00",
+            "count" : 4
+          }, {
+            "item" : "55100.00",
+            "count" : 3
+          }, {
+            "item" : "508893.00",
+            "count" : 2
+          }, {
+            "item" : "74750.00",
+            "count" : 1
+          } ],
+          "smallest" : "0",
+          "sum" : "31877285.00"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768841,
+        "name" : "GENERALPAY",
+        "dataTypeName" : "number",
+        "fieldName" : "generalpay",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1518999,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 284,
+          "average" : "28753.57394366197",
+          "largest" : "976545.00",
+          "null" : 1,
+          "top" : [ {
+            "item" : "0",
+            "count" : 20
+          }, {
+            "item" : "75350.00",
+            "count" : 19
+          }, {
+            "item" : "201131.00",
+            "count" : 18
+          }, {
+            "item" : "39760.00",
+            "count" : 17
+          }, {
+            "item" : "57796.00",
+            "count" : 16
+          }, {
+            "item" : "75200.00",
+            "count" : 15
+          }, {
+            "item" : "68234.00",
+            "count" : 14
+          }, {
+            "item" : "5732.00",
+            "count" : 13
+          }, {
+            "item" : "58488.00",
+            "count" : 12
+          }, {
+            "item" : "62184.00",
+            "count" : 11
+          }, {
+            "item" : "44748.00",
+            "count" : 10
+          }, {
+            "item" : "21946.00",
+            "count" : 9
+          }, {
+            "item" : "70500.00",
+            "count" : 8
+          } ],
+          "smallest" : "0",
+          "sum" : "8166015.00"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768842,
+        "name" : "RUNOFFPAY",
+        "dataTypeName" : "number",
+        "fieldName" : "runoffpay",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1519000,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 284,
+          "average" : "7776.778169014085",
+          "largest" : "711537.00",
+          "null" : 1,
+          "top" : [ {
+            "item" : "0",
+            "count" : 20
+          }, {
+            "item" : "267331.00",
+            "count" : 19
+          }, {
+            "item" : "574387.00",
+            "count" : 18
+          }, {
+            "item" : "303270.00",
+            "count" : 17
+          }, {
+            "item" : "711537.00",
+            "count" : 16
+          }, {
+            "item" : "114407.00",
+            "count" : 15
+          }, {
+            "item" : "237673.00",
+            "count" : 14
+          } ],
+          "smallest" : "0",
+          "sum" : "2208605.00"
+        },
+        "format" : { }
+      }, {
+        "id" : 75768843,
+        "name" : "TOTALPAY",
+        "dataTypeName" : "number",
+        "fieldName" : "totalpay",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1519001,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 284,
+          "average" : "148774.3133802817",
+          "largest" : "4534230.00",
+          "null" : 1,
+          "top" : [ {
+            "item" : "0",
+            "count" : 20
+          }, {
+            "item" : "75350.00",
+            "count" : 19
+          }, {
+            "item" : "150700.00",
+            "count" : 18
+          }, {
+            "item" : "2458534.00",
+            "count" : 17
+          }, {
+            "item" : "133146.00",
+            "count" : 16
+          }, {
+            "item" : "75200.00",
+            "count" : 15
+          }, {
+            "item" : "68234.00",
+            "count" : 14
+          }, {
+            "item" : "70664.00",
+            "count" : 13
+          }, {
+            "item" : "58488.00",
+            "count" : 12
+          }, {
+            "item" : "50112.00",
+            "count" : 11
+          }, {
+            "item" : "62184.00",
+            "count" : 10
+          }, {
+            "item" : "44748.00",
+            "count" : 9
+          }, {
+            "item" : "21946.00",
+            "count" : 8
+          }, {
+            "item" : "41656.00",
+            "count" : 7
+          }, {
+            "item" : "61260.00",
+            "count" : 6
+          }, {
+            "item" : "145850.00",
+            "count" : 5
+          }, {
+            "item" : "35808.00",
+            "count" : 4
+          }, {
+            "item" : "12172.00",
+            "count" : 3
+          } ],
+          "smallest" : "0",
+          "sum" : "42251905.00"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "attachments" : [ {
+          "filename" : "Data_Dictionary_Public_Funds_Payments_FINAL.xlsx",
+          "assetId" : "52a7652b-f286-4000-b43b-b131e8e2559e",
+          "blobId" : "",
+          "name" : "Data_Dictionary_Public_Funds_Payments_FINAL.xlsx"
+        } ],
+        "custom_fields" : {
+          "Update" : {
+            "Automation" : "No",
+            "Date Made Public" : "9/13/2011",
+            "Update Frequency" : "Historical Data"
+          },
+          "Legislative Compliance" : {
+            "Geo-coding Attached?" : ""
+          },
+          "Dataset Information" : {
+            "Agency" : "Campaign Finance Board (CFB)"
+          }
+        },
+        "rowIdentifier" : "0",
+        "rowLabel" : ""
+      },
+      "owner" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "profileImageUrlLarge" : "/api/users/5fuc-pqz2/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/5fuc-pqz2/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/5fuc-pqz2/profile_images/TINY",
+        "screenName" : "NYC OpenData",
+        "type" : "interactive",
+        "flags" : [ "mayBeStoriesCoOwner" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "profileImageUrlLarge" : "/api/users/5fuc-pqz2/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/5fuc-pqz2/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/5fuc-pqz2/profile_images/TINY",
+        "screenName" : "NYC OpenData",
+        "type" : "interactive",
+        "flags" : [ "mayBeStoriesCoOwner" ]
+      },
+      "tags" : [ "finance", "campaign finance board", "cfb", "nyccfb", "campaign finance", "elections", "contributions", "politics", "campaign", "funding" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "E3E9CC9F-7443-43F6-94AF-B5A0F802DBA1", 1, 1315925633, "392904", 1315925633, "392904", "{\n  \"invalidCells\" : {\n    \"1519001\" : \"TOTALPAY\",\n    \"1518998\" : \"PRIMARYPAY\",\n    \"1519000\" : \"RUNOFFPAY\",\n    \"1518999\" : \"GENERALPAY\",\n    \"1518994\" : \"OFFICECD\",\n    \"1518996\" : \"OFFICEDIST\",\n    \"1518991\" : \"ELECTION\"\n  }\n}", null, "CANDID", "CANDNAME", null, "OFFICEBORO", null, "CANCLASS", null, null, null, null ]
+, [ 2, "9D257416-581A-4C42-85CC-B6EAD9DED97F", 2, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "B4", "Aboulafia, Sandy", "5", null, "44", "P", "45410.00", "0", "0", "45410.00" ]
+, [ 3, "B80D7891-93CF-49E8-86E8-182B618E68F2", 3, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "445", "Adams, Jackie R", "5", null, "7", "P", "11073.00", "0", "0", "11073.00" ]
+, [ 4, "BB012003-78F5-406D-8A87-7FF8A425EE3F", 4, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "HF", "Addabbo, Joseph P", "5", null, "32", "P", "75350.00", "73970.00", "0", "149320.00" ]
+, [ 5, "945825F9-2F5D-47C2-A16B-75B93E61E1AD", 5, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "IR", "Alamo-Estrada, Agustin", "5", null, "14", "P", "25000.00", "2400.00", "0", "27400.00" ]
+, [ 6, "9546F502-39D6-4340-B37E-60682EB22274", 6, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "BR", "Allen, William A", "5", null, "9", "P", "62990.00", "0", "0", "62990.00" ]
+, [ 7, "4B6C74AD-17A0-4B7E-973A-2592D68A687D", 7, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "454", "Alleyne, Alithia", "5", null, "40", "P", "0", "0", "0", "0" ]
+, [ 8, "ABD22A5E-B8DA-446F-82BC-93AA11AF99DF", 8, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "375", "Alonso, Miguel", "5", null, "37", "P", "36121.00", "680.00", "0", "36801.00" ]
+, [ 9, "7CD36FB5-600F-44F5-A10C-CB3434B6805F", 9, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "241", "Andrews, Jr., Anthony D", "5", null, "28", "P", "68580.00", "20156.00", "0", "88736.00" ]
+, [ 10, "7C977007-BC4A-4A04-AE0E-B2946AFE7193", 10, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "504", "Ariola, JoAnn", "5", null, "32", "P", "0", "69816.00", "0", "69816.00" ]
+, [ 11, "09E1FEC7-1CA8-4C6B-8EA9-48AFB59B4736", 11, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "51", "Avella, Tony", "5", null, "19", "P", "75350.00", "75170.00", "0", "150520.00" ]
+, [ 12, "B2246B0E-2B34-411E-8205-8A413D6FC36B", 12, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "279", "Bader, Paul", "5", null, "39", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 13, "2BA2F8A3-72FD-4108-9162-5654AE72095B", 13, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "81", "Badillo, Herman", "1", null, null, "P", "356723.00", "0", "0", "356723.00" ]
+, [ 14, "A1886DC9-C832-43A0-8865-F1C72152CB0F", 14, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "591", "Baez, Maria", "5", null, "14", "P", "75350.00", "14912.00", "0", "90262.00" ]
+, [ 15, "F85C0201-7BC9-40A8-8AA1-D18E1E9DE1E7", 15, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "KH", "Baldwin-Ferguson, Imogene", "5", null, "35", "P", "0", "0", "0", "0" ]
+, [ 16, "97494A75-34A2-428F-9D9E-019E8CF7C337", 16, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "258", "Banks, Steven R", "5", null, "39", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 17, "36BA4807-FA7C-4610-8EEB-63ADAB58EDC6", 17, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "DD", "Barron, Charles", "5", null, "42", "P", "75350.00", "17148.00", "0", "92498.00" ]
+, [ 18, "675CBD1F-CEE4-4848-A70E-E80DECE4E42B", 18, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "256", "Bastone, Terry A", "5", null, "11", "P", "47820.00", "0", "0", "47820.00" ]
+, [ 19, "19471488-6B68-4002-8333-9B1B69CBE326", 19, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "25", "Benjamin, Michael A", "5", null, "16", "P", "75280.00", "32946.00", "0", "108226.00" ]
+, [ 20, "3F81CC8B-6A61-43D0-AA7C-082DCD16AFE0", 20, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "HL", "Berman, Herbert E", "3", null, null, "P", "1487732.00", "89128.00", "0", "1576860.00" ]
+, [ 21, "8234EA21-25DF-4450-9FD9-DFB37BCBB756", 21, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "560", "Bernace, Victor A", "5", null, "7", "P", "19520.00", "0", "0", "19520.00" ]
+, [ 22, "49D9E145-460C-4DA6-8BF4-5FD710369A70", 22, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "321", "Bilal, Charles A", "5", null, "28", "P", "0", "0", "0", "0" ]
+, [ 23, "F3BEDBD9-2ED9-4288-8927-1E94C99C6DF0", 23, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "330", "Blake, James", "5", null, "31", "P", "51676.00", "0", "0", "51676.00" ]
+, [ 24, "D5BF19D9-6A44-49E7-A09B-C1003ECAFDD2", 24, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "508", "Bloodsaw, Daryl G", "5", null, "7", "P", "37312.00", "0", "0", "37312.00" ]
+, [ 25, "394A5985-BC4B-4DA8-854A-D3F5732A377D", 25, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "550", "Bouchard, Michelle", "5", null, "3", "P", "0", "65704.00", "0", "65704.00" ]
+, [ 26, "2D3AEA15-20FE-4616-9478-488620DB9650", 26, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "399", "Brewer, Gale A", "5", null, "6", "P", "75350.00", "75350.00", "0", "150700.00" ]
+, [ 27, "23195BCD-91D4-4CC2-8710-E6CC670A15FA", 27, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "539", "Brook Krasny, Alec", "5", null, "47", "P", "66304.00", "0", "0", "66304.00" ]
+, [ 28, "5C6F0B3D-8D2B-4690-AFDC-0F4AED8189B2", 28, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "543", "Brooks, Curtis", "5", null, "12", "P", "0", "0", "0", "0" ]
+, [ 29, "9F78DA91-3585-4549-93D7-BC928A2ED528", 29, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "EC", "Brown, Everly D", "5", null, "31", "P", "0", "0", "0", "0" ]
+, [ 30, "E2ADADBB-AED6-4D63-A2B1-7190BA3CE4F0", 30, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "517", "Brown, Michael E", "5", null, "6", "P", "0", "0", "0", "0" ]
+, [ 31, "1048A3D4-18BC-4EE8-9B62-3BFF47B1B6DC", 31, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "F9", "Cammarata, Joseph F", "5", null, "49", "P", "0", "73868.00", "0", "73868.00" ]
+, [ 32, "A283D146-5210-4245-B6B5-F4371EDE5F39", 32, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "ED", "Carrion, Jr., Adolfo", "4", "X", null, "P", "346954.00", "84848.00", "0", "431802.00" ]
+, [ 33, "FFBB38C9-061A-4177-9568-C34C5476433A", 33, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "306", "Carroll, John W", "5", null, "39", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 34, "ED5AB3F7-B0B4-4599-B342-2666918A9AE9", 34, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "DT", "Castellanos, Francesca M", "5", null, "10", "P", "21292.00", "0", "0", "21292.00" ]
+, [ 35, "38E00AF4-4C98-4B5E-8D19-680C36097390", 35, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "319", "Cermeli, Robert", "5", null, "30", "P", "49572.00", "0", "0", "49572.00" ]
+, [ 36, "F2FF0EA9-6465-45EE-8276-CDC7E003FCD9", 36, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "394", "Chan, Louisa M", "5", null, "25", "P", "29444.00", "0", "0", "29444.00" ]
+, [ 37, "C2F1CB4C-D72E-4780-ADDE-A160FEC344F8", 37, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "302", "Cheliotes, Arthur", "5", null, "19", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 38, "926A04F0-D7C0-410E-872A-418ABBDCB6EB", 38, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "CF", "Chen, Ethel T", "5", null, "20", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 39, "4A6C9055-91BF-45F5-878F-5B36509A86C3", 39, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "98", "Chin, Margaret S", "5", null, "1", "P", "90053.00", "74070.00", "0", "164123.00" ]
+, [ 40, "B7C2223F-F741-4F63-937F-5CF3016CB8E4", 40, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "287", "Chin, Rockwell J", "5", null, "1", "P", "91333.00", "75350.00", "0", "166683.00" ]
+, [ 41, "412962BF-CCD3-482D-9536-B352D4E5A8BA", 41, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "235", "Chou, Evergreen C", "5", null, "20", "P", "0", "0", "0", "0" ]
+, [ 42, "34FF868B-9A07-4BE7-A791-A4E92E73B7C7", 42, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "448", "Ciafone, John J", "5", null, "22", "P", "0", "0", "0", "0" ]
+, [ 43, "973F1C23-BBDD-4DC4-A661-ABA857A25E9A", 43, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "434", "Clarke, Amanda L", "5", null, "31", "P", "0", "0", "0", "0" ]
+, [ 44, "CFE1FB14-892E-4311-8A41-62E958370383", 44, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "511", "Clarke, Yvette D", "5", null, "40", "P", "3462.00", "74460.00", "0", "77922.00" ]
+, [ 45, "5C503029-3B4B-438B-B6D0-7E671103D2B2", 45, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "369", "Cohn, Steven D", "5", null, "33", "P", "73850.00", "73310.00", "0", "147160.00" ]
+, [ 46, "19D0A5FC-20F2-4EAF-8002-5C3F9E9582A6", 46, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "366", "Colon, Willie", "2", null, null, "P", "0", "0", "0", "0" ]
+, [ 47, "BA063336-AF01-4125-B3A5-C670217D844C", 47, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "420", "Comrie, Leroy G", "5", null, "27", "P", "71388.00", "0", "0", "71388.00" ]
+, [ 48, "CA81ED8E-99A7-4870-8C6E-67E73538399A", 48, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "483", "Conley, Joseph T", "5", null, "26", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 49, "237379CD-7B64-433B-AB1F-4B353211C5BE", 49, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "413", "Cooper-Gregory, Helen A", "5", null, "27", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 50, "0C2CC233-6F87-4F0A-8332-BE2E86D2075D", 50, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "530", "Crowley, Elizabeth S", "5", null, "30", "P", "74825.00", "70271.00", "0", "145096.00" ]
+, [ 51, "0424B1F9-891D-4E0A-AB0B-929AD3689D4B", 51, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "351", "Curran, Robert E", "5", null, "32", "P", "0", "0", "0", "0" ]
+, [ 52, "FB82BFFC-3E70-4F32-8B73-70E6CC6F2D8D", 52, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "476", "Curry, Anthony", "5", null, "16", "P", "0", "0", "0", "0" ]
+, [ 53, "BB40ECDB-0520-482C-963B-E224A9309462", 53, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "EQ", "Davis, James E", "5", null, "35", "P", "75350.00", "47032.00", "0", "122382.00" ]
+, [ 54, "2034417B-986C-450F-B6DC-69B58C4DC5BC", 54, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "326", "de Blasio, Bill", "5", null, "39", "P", "75350.00", "67535.00", "0", "142885.00" ]
+, [ 55, "2C81D231-37D5-47BF-A82B-4A2BD7834C18", 55, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "K4", "Del Giorno, Jon R", "5", null, "49", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 56, "902251E2-B8F1-4B7C-8317-73FA48B4CB47", 56, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "453", "Del Villar, Angel", "5", null, "21", "P", "0", "0", "0", "0" ]
+, [ 57, "286B7B45-55BB-4E38-B789-FFF15FB65EE5", 57, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "569", "DeMarco Jr., Alexander A", "5", null, "51", "P", "0", "0", "0", "0" ]
+, [ 58, "EA2520C0-F8FF-4065-8643-E1F8EF660018", 58, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "501", "Detiege-Cormier, Roy-Pierre", "5", null, "41", "P", "0", "0", "0", "0" ]
+, [ 59, "09FF452A-7F14-402B-8392-6CD8F4B48A3A", 59, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "449", "Diamondstone, Kenneth A", "5", null, "33", "P", "75350.00", "19596.00", "0", "94946.00" ]
+, [ 60, "3FA29E0C-1E28-455E-87F4-DBFC05923E9C", 60, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "C4", "DiBrienza, Stephen", "2", null, null, "P", "1069324.00", "0", "267331.00", "1336655.00" ]
+, [ 61, "B3C1C087-7753-4991-8F52-B5FF2DDAF63F", 61, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "444", "Dilan, Erik M", "5", null, "37", "P", "73180.00", "7724.00", "0", "80904.00" ]
+, [ 62, "D8F06A92-ADBF-43DA-AD8B-95BDA23D878B", 62, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "563", "Dotson, Heyward H", "5", null, "7", "P", "0", "0", "0", "0" ]
+, [ 63, "883D5984-4B00-4CE0-8779-077A1129C8E8", 63, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "514", "Doukas, Peter G", "5", null, "4", "P", "65048.00", "0", "0", "65048.00" ]
+, [ 64, "2C08B082-B5D3-4BDC-808C-166E64D585F7", 64, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "515", "Eagan, Ann", "5", null, "26", "P", "0", "0", "0", "0" ]
+, [ 65, "843F66E4-3260-44A7-AD9B-88F8968CFD61", 65, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "HJ", "Eisland, June M", "4", "X", null, "P", "316548.00", "0", "0", "316548.00" ]
+, [ 66, "E3BFC921-73E7-4C16-B9C0-72581D4372FD", 66, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "WC", "Espada, Jr., Pedro", "4", "X", null, "P", "0", "0", "0", "0" ]
+, [ 67, "8EB1AC4E-A6A1-4ECD-B7D6-F35CA5A6657F", 67, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "YA", "Espada, Pedro G", "5", null, "17", "P", "55900.00", "0", "0", "55900.00" ]
+, [ 68, "BC9E959C-96E9-47EC-9152-280A78EA070B", 68, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "329", "Evans, Jeanette", "5", null, "29", "P", "0", "0", "0", "0" ]
+, [ 69, "C920F838-1A90-4C68-BF64-B8B27D2B5BCD", 69, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "516", "Faison, Barbara", "5", null, "42", "P", "0", "0", "0", "0" ]
+, [ 70, "3E3166A0-539A-432F-9B0E-58BB4968E168", 70, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "535", "Falcon-Lopez, Miriam T", "5", null, "8", "P", "0", "0", "0", "0" ]
+, [ 71, "EDCB7871-51FB-49C5-BD99-831AD62A80E6", 71, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "538", "Farrakhan, Abdur Rahman", "5", null, "41", "P", "0", "0", "0", "0" ]
+, [ 72, "18081FB0-95BB-416E-80AB-414133B108B8", 72, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "426", "Farrell, Matthew J", "5", null, "26", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 73, "E828826E-5A6F-46D8-8FA2-AC59EC10C3AB", 73, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "313", "Felder, Simcha", "5", null, "44", "P", "75350.00", "75350.00", "0", "150700.00" ]
+, [ 74, "7451EDAD-7448-46A3-B685-F128D55F8F12", 74, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "AY", "Ferrer, Fernando", "1", null, null, "P", "2297546.00", "0", "574387.00", "2871933.00" ]
+, [ 75, "BFD3BAE2-E372-49FD-BB4D-15FE913BEFA9", 75, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "527", "Fidler, Lewis A", "5", null, "46", "P", "75350.00", "66791.00", "0", "142141.00" ]
+, [ 76, "5FFA1F25-06CD-4F87-A012-DAC2EF920A10", 76, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "B6", "Fields, C. Virginia", "4", "M", null, "P", "0", "444452.00", "0", "444452.00" ]
+, [ 77, "9B60CEB3-D622-446C-A85D-7C22F3CB423B", 77, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "526", "Fields, Jessie", "4", "M", null, "P", "0", "135904.00", "0", "135904.00" ]
+, [ 78, "D6E4D4D1-5B41-4DA7-8434-C8E2BD2481C5", 78, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "B8", "Fisher, Kenneth K", "4", "K", null, "P", "647350.00", "0", "0", "647350.00" ]
+, [ 79, "C5BE0C24-6B2B-4734-970F-05FDD8007F6A", 79, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "373", "Flaxman, Sheila S", "2", null, null, "P", "0", "0", "0", "0" ]
+, [ 80, "D01426D2-6B24-4C94-9A8A-93179972415D", 80, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "234", "Flores-Vazquez, Martha", "5", null, "20", "P", "0", "39476.00", "0", "39476.00" ]
+, [ 81, "D53E0AFF-4943-447C-8DC1-28E8989C52C4", 81, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "592", "Foley, Ronald G", "5", null, "6", "P", "0", "0", "0", "0" ]
+, [ 82, "4F6538AF-3784-45CA-BFFA-D9F78C1C79AB", 82, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "325", "Foster, Helen Diane", "5", null, "16", "P", "75350.00", "56448.00", "0", "131798.00" ]
+, [ 83, "6CEEA576-0625-42D4-81A5-1E3970A0D77D", 83, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "301", "Frank, John D", "5", null, "19", "P", "52968.00", "0", "0", "52968.00" ]
+, [ 84, "538684BB-4441-487C-9617-2529DEF898A2", 84, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "998", "Fratta, John A", "5", null, "1", "P", "91333.00", "0", "0", "91333.00" ]
+, [ 85, "F328D07C-37DF-4400-93BA-2D4C39CEB576", 85, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "C7", "Freed, Kathryn E", "2", null, null, "P", "626484.00", "0", "0", "626484.00" ]
+, [ 86, "E61A1E4A-0D1E-4496-B95B-A91C7969CA09", 86, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "316", "Fullard, Henrietta", "5", null, "31", "P", "0", "0", "0", "0" ]
+, [ 87, "5D06CFFB-6946-4FEC-9F81-9C39D7ED10BB", 87, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "284", "Gadson, Jeanette", "4", "K", null, "P", "521969.00", "0", "0", "521969.00" ]
+, [ 88, "A2275AA6-81AA-40E9-8996-0403DEFB67E4", 88, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "334", "Gallagher, Dennis P", "5", null, "30", "P", "0", "75350.00", "0", "75350.00" ]
+, [ 89, "E4C62499-6FF5-4064-A3CD-E896867F6415", 89, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "532", "Gangemi, Ursula A", "5", null, "43", "P", "48480.00", "0", "0", "48480.00" ]
+, [ 90, "512D06A9-CFC5-468D-B311-DB2A8B2DABFE", 90, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "283", "Gennaro, James F", "5", null, "24", "P", "75350.00", "70964.00", "0", "146314.00" ]
+, [ 91, "D64F5E95-D0F3-4A2E-8951-0D016EC5AD9E", 91, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "268", "Gerson, Alan J", "5", null, "1", "P", "91333.00", "74450.00", "0", "165783.00" ]
+, [ 92, "EB0B3130-E1D9-4685-8173-0519B5A1F4EA", 92, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "418", "Gioia, Eric", "5", null, "26", "P", "75350.00", "72916.00", "0", "148266.00" ]
+, [ 93, "D7862519-9B8D-4423-8E4C-7BA7406B9FD4", 93, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "C0", "Golden, Martin J", "5", null, "43", "P", "0", "75350.00", "0", "75350.00" ]
+, [ 94, "636DF6FD-970F-4ED6-9E3D-0E2F9F406D63", 94, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "562", "Golding, Kenneth B", "1", null, null, "P", "0", "0", "0", "0" ]
+, [ 95, "9C0FEAE1-74B8-435A-BF34-48996A64A631", 95, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "503", "Golub, Jay", "5", null, "2", "P", "0", "19900.00", "0", "19900.00" ]
+, [ 96, "2D5F98D3-B7AC-4355-B5F3-35EE665C09AA", 96, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "363", "Gonzalez-Jarrin, Aida A", "5", null, "21", "P", "71940.00", "0", "0", "71940.00" ]
+, [ 97, "19504C29-E61C-41CA-8F9B-3A940C45C558", 97, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "263", "Gotbaum, Betsy F", "2", null, null, "P", "1213080.00", "108740.00", "303270.00", "1625090.00" ]
+, [ 98, "327EB48F-126F-4939-BBCF-983555DCB31C", 98, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "343", "Graziano, Paul D", "5", null, "20", "P", "26384.00", "936.00", "0", "27320.00" ]
+, [ 99, "EE2AEA90-F9FC-47B8-B59D-6ED85648844A", 99, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "324", "Greco, Jr., Rudolph E", "5", null, "25", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 100, "C292D365-A5D5-4DBD-B068-E7FAABAFF5DB", 100, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "A7", "Green, Mark", "1", null, null, "P", "2846148.00", "976545.00", "711537.00", "4534230.00" ]
+, [ 101, "909DF78A-7ED5-4D42-B709-D79976256605", 101, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "533", "Greenwood, Doreen A", "5", null, "46", "P", "62340.00", "16592.00", "0", "78932.00" ]
+, [ 102, "4B234753-A395-4C30-947B-C005B83D7E76", 102, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "273", "Gresser, Carol A", "4", "Q", null, "P", "596045.00", "0", "0", "596045.00" ]
+, [ 103, "03AE9790-599A-446B-BFE1-F7CA4AB848B1", 103, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "238", "Grodenchik, Barry", "5", null, "24", "P", "75350.00", "72276.00", "0", "147626.00" ]
+, [ 104, "1DEA1393-F420-47D9-B960-EC6D7B83477F", 104, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "455", "Gutnik, Oleg", "5", null, "47", "P", "70648.00", "20260.00", "0", "90908.00" ]
+, [ 105, "393E6F78-B8F8-4B9F-9E95-3D2742D34891", 105, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "431", "Haber, Jason S", "5", null, "6", "P", "0", "0", "0", "0" ]
+, [ 106, "C0C3B05E-3693-46D6-BC94-41C1C17035C2", 106, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "308", "Hammerman, Craig R", "5", null, "39", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 107, "E27F545B-FE6E-4D46-AF00-B08541E7D72E", 107, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "570", "Hernandez, Louis R", "5", null, "37", "P", "10976.00", "0", "0", "10976.00" ]
+, [ 108, "3FF882EA-C64C-4941-A8FF-AB31A70BA0D1", 108, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "552", "Herz, David R", "5", null, "6", "P", "0", "0", "0", "0" ]
+, [ 109, "3F3CC093-CC6C-437B-B5CE-CAD74529F637", 109, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "A9", "Hevesi, Alan G", "1", null, null, "P", "2641247.00", "0", "0", "2641247.00" ]
+, [ 110, "7E14125F-E196-4F78-B4DC-1B5F6E36B05B", 110, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "212", "Hikind, Libby N", "5", null, "50", "P", "75350.00", "49403.00", "0", "124753.00" ]
+, [ 111, "CCBA4DE5-86FC-43EF-87EF-B0E6FCEE13FC", 111, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "502", "Hochhauser, Joseph K", "5", null, "47", "P", "21956.00", "3064.00", "0", "25020.00" ]
+, [ 112, "003CC31A-533D-461D-9221-9225AD5C95E8", 112, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "423", "Howell, Carol B", "5", null, "31", "P", "0", "0", "0", "0" ]
+, [ 113, "8B99555D-D4EB-404D-B04E-4F33E654E457", 113, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "296", "Hoylman, Brad M", "5", null, "1", "P", "91333.00", "0", "0", "91333.00" ]
+, [ 114, "39F52905-C508-4388-B678-34BBB8C79003", 114, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "579", "Hughes, Michael B", "5", null, "7", "P", "0", "0", "0", "0" ]
+, [ 115, "510188F1-7568-4012-9B4D-835B7CC4C128", 115, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "336", "Hui, Kwong T", "5", null, "1", "P", "91333.00", "51640.00", "0", "142973.00" ]
+, [ 116, "0B405BD5-B1FB-49A3-A93B-B6E867C5B7DE", 116, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "KN", "Hunter, Robert A", "5", null, "35", "P", "0", "0", "0", "0" ]
+, [ 117, "41A17DBF-2B6E-497C-AAE5-415ECB101FE5", 117, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "388", "Hylton, Christian B", "5", null, "45", "P", "51732.00", "0", "0", "51732.00" ]
+, [ 118, "58F210AC-A087-4F85-B99E-C353BD6D7D6F", 118, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "DE", "Iannece, Jerry M", "5", null, "19", "P", "75350.00", "29252.00", "0", "104602.00" ]
+, [ 119, "7C4C9FCB-B17F-4392-BE61-C43AF3EF1608", 119, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "593", "Imprescia, Richard V", "5", null, "11", "P", "0", "0", "0", "0" ]
+, [ 120, "09ECD919-06A2-437D-BEBD-E09A140FD5D2", 120, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "548", "Jackson, Gregory", "5", null, "42", "P", "0", "0", "0", "0" ]
+, [ 121, "5A93720B-5BF9-422A-AFD3-502EBD8F0FCB", 121, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "484", "Jackson, Robert", "5", null, "7", "P", "75350.00", "31912.00", "0", "107262.00" ]
+, [ 122, "78F45C97-43CF-449E-B47B-6159D5778DBD", 122, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "480", "James, Letitia", "5", null, "35", "P", "75350.00", "72644.00", "0", "147994.00" ]
+, [ 123, "064D1E6F-3148-4334-BF65-2E167B1BCD46", 123, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "460", "Jannaccio, Richard", "5", null, "20", "P", "28736.00", "0", "0", "28736.00" ]
+, [ 124, "7443F417-49FE-4A89-A86E-B175A49562C9", 124, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "410", "Jefferson, Charlotte R", "5", null, "31", "P", "53273.00", "0", "0", "53273.00" ]
+, [ 125, "8CD56066-5E21-4213-B9A3-5FBF8AE3E4DF", 125, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "499", "Jeffries-El, Joseph", "5", null, "42", "P", "0", "0", "0", "0" ]
+, [ 126, "57411B45-06E8-42D4-BB27-EC195F515DEC", 126, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "CZ", "Jenkins, Cynthia", "5", null, "27", "P", "0", "0", "0", "0" ]
+, [ 127, "15C0707E-689E-4339-89C1-D88C1A976996", 127, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "427", "Jenkins, Patrick B", "5", null, "28", "P", "0", "0", "0", "0" ]
+, [ 128, "451BBACB-2835-4321-A18B-BFDC7CFAB88D", 128, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "ER", "Jennings, Allan W", "5", null, "28", "P", "40280.00", "1064.00", "0", "41344.00" ]
+, [ 129, "87A099D1-0FCE-4F66-A8F1-A2BD708A812B", 129, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "IM", "Jodha, Rameshwar", "5", null, "28", "P", "0", "0", "0", "0" ]
+, [ 130, "8B04C39B-F908-4212-B4B6-2F51DC45AF7B", 130, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "354", "Jorge, Chris", "5", null, "32", "P", "45580.00", "0", "0", "45580.00" ]
+, [ 131, "B96A8E0A-2D0A-4D4E-8BED-779988AE2656", 131, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "492", "Kann, Jerry", "5", null, "22", "P", "0", "0", "0", "0" ]
+, [ 132, "C979099B-3D1C-4C52-969E-757FBC225BFF", 132, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "264", "Katz, Melinda R", "5", null, "29", "P", "75350.00", "75350.00", "0", "150700.00" ]
+, [ 133, "40D78AFE-5145-4EA1-B2CA-C24AB8C0565C", 133, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "392", "Kaufman, Jordan", "5", null, "1", "P", "0", "0", "0", "0" ]
+, [ 134, "2FE479E9-D2E3-4E26-A59C-66B32AF3E116", 134, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "409", "Kearney, Michael G", "5", null, "26", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 135, "802AA7A7-71CC-46D6-B49A-E8E8527E3E28", 135, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "HP", "Kinard, Stanley", "5", null, "36", "P", "0", "0", "0", "0" ]
+, [ 136, "B65CB9F5-2077-4875-81C5-F3D6519E06F5", 136, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "459", "Koppell, G. Oliver", "5", null, "11", "P", "75350.00", "72740.00", "0", "148090.00" ]
+, [ 137, "4B253C67-2608-472E-9A5D-285D7018A6FB", 137, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "GA", "Kramer, Kenny", "1", null, null, "P", "0", "0", "0", "0" ]
+, [ 138, "F98944DE-E1AD-4971-A728-C2281E791BB1", 138, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "546", "Lanza, Andrew J", "5", null, "51", "P", "68184.00", "42707.00", "0", "110891.00" ]
+, [ 139, "4749F42B-6D5A-4FAC-BECE-D9D9A116072B", 139, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "518", "Lasher, Susan", "5", null, "47", "P", "53976.00", "0", "0", "53976.00" ]
+, [ 140, "45DF187A-D6D0-4AC5-AE89-6D1AD88458A0", 140, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "365", "Law, Ronald", "4", "X", null, "P", "0", "0", "0", "0" ]
+, [ 141, "CE26138C-FEBF-4977-B2D8-11A43FFFE070", 141, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "DI", "Leffler, Sheldon S", "4", "Q", null, "P", "296084.00", "0", "0", "296084.00" ]
+, [ 142, "E5320618-05D8-4D98-B835-683CBA5C182E", 142, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "K1", "Leighton, Thomas K", "1", null, null, "P", "0", "0", "0", "0" ]
+, [ 143, "0EE6D94D-5C1D-4E4F-A029-35A936D8CF2D", 143, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "424", "Lesczynski, James L", "5", null, "5", "P", "0", "0", "0", "0" ]
+, [ 144, "9F28CD46-AE0F-4786-BD4E-460948F14D5A", 144, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "311", "Levine, Mark D", "5", null, "7", "P", "73320.00", "0", "0", "73320.00" ]
+, [ 145, "4C519383-2B85-45C1-911F-964FF0C9AED3", 145, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "333", "Levy, Abraham", "5", null, "46", "P", "55412.00", "0", "0", "55412.00" ]
+, [ 146, "8BBE0716-35CE-4744-9F4B-61B9FCB78A9A", 146, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "298", "Lewis, Anna R", "5", null, "6", "P", "73928.00", "3184.00", "0", "77112.00" ]
+, [ 147, "FC753ACD-88AE-44C7-8E8C-7334FF384681", 147, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "KA", "Lewis, Edward J", "5", null, "31", "P", "30720.00", "0", "0", "30720.00" ]
+, [ 148, "D961AF99-B052-4B53-B235-D7D69AFA088D", 148, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "574", "Lewis, Prince D", "5", null, "42", "P", "0", "0", "0", "0" ]
+, [ 149, "BB8296A2-07AA-4CBA-8A7B-00742901EABD", 149, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "FI", "Liu, John C", "5", null, "20", "P", "75350.00", "75170.00", "0", "150520.00" ]
+, [ 150, "195965D5-AE2C-4CA8-B43A-586B5E5D8163", 150, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "C8", "Lizardo, Roberto E", "5", null, "10", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 151, "172B3E4C-D4F6-4B5D-90AC-EF51635DCE10", 151, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "473", "Lobo, Renee", "5", null, "29", "P", "0", "52672.00", "0", "52672.00" ]
+, [ 152, "78EBDADE-8EA9-4FD0-BC07-832606EE851C", 152, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "BH", "Lopez, Margarita", "5", null, "2", "P", "75350.00", "68332.00", "0", "143682.00" ]
+, [ 153, "8A3E4881-C809-4779-B7D0-6EA59C554BB4", 153, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "472", "Luciano, Felipe", "5", null, "8", "P", "47720.00", "0", "0", "47720.00" ]
+, [ 154, "18418497-AF6C-42EA-91B9-BBBC82ED09E9", 154, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "416", "Maio, Danniel S", "4", "M", null, "P", "0", "0", "0", "0" ]
+, [ 155, "B4433858-CE3E-49C3-8B14-E40219EE5BA5", 155, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "389", "Mandell, Linda", "5", null, "20", "P", "0", "0", "0", "0" ]
+, [ 156, "07B41D66-3575-48C6-A7D2-D8F779EF819D", 156, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "KJ", "Marchant, Garth I", "5", null, "28", "P", "34736.00", "75350.00", "0", "110086.00" ]
+, [ 157, "623C3B68-E59E-445B-B5F9-96A35E889951", 157, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "226", "Markowitz, Marty", "4", "K", null, "P", "647350.00", "518944.00", "0", "1166294.00" ]
+, [ 158, "39DB9DBC-2E6E-49FC-A057-83ABB70B4424", 158, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "E9", "Marshall, Helen M", "4", "Q", null, "P", "581444.00", "65729.00", "0", "647173.00" ]
+, [ 159, "156DFEC9-2E23-48F4-83E1-FEE9907E151D", 159, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "509", "Martin, Yolanda J", "5", null, "37", "P", "0", "0", "0", "0" ]
+, [ 160, "B53CCE11-21C7-4CC7-9232-D7633B8D9A99", 160, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "415", "Martinez, George", "5", null, "38", "P", "0", "0", "0", "0" ]
+, [ 161, "57667AE0-72EC-4123-9781-C09D13116DC1", 161, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "MJ", "Martinez, Juan D", "5", null, "34", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 162, "BAB17261-5BA3-4C79-8D52-8C6D06A6B0D0", 162, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "223", "Martinez, Miguel", "5", null, "10", "P", "74850.00", "53936.00", "0", "128786.00" ]
+, [ 163, "D3F7F59F-D209-4EF2-94D0-B89F085C6C2C", 163, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "580", "Mascitti, Michael A", "5", null, "22", "P", "0", "0", "0", "0" ]
+, [ 164, "072FDE03-DB72-4442-9913-E7495FEC7D01", 164, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "FA", "Mateo, Heriberto", "5", null, "37", "P", "68040.00", "0", "0", "68040.00" ]
+, [ 165, "A62AFEEF-473C-4BBB-82B0-14346A5DC44B", 165, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "440", "Mattera, Gloria", "5", null, "39", "P", "0", "31704.00", "0", "31704.00" ]
+, [ 166, "74F402EA-DAC9-4E40-B375-91024B8A45FD", 166, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "572", "McCleary, Michelle L", "5", null, "9", "P", "0", "0", "0", "0" ]
+, [ 167, "C4325B54-AAA4-479E-A0BC-212375C7595E", 167, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "271", "McMahon, Michael E", "5", null, "49", "P", "75350.00", "75350.00", "0", "150700.00" ]
+, [ 168, "AE6B27DF-03E1-469C-9B56-78309C9894C5", 168, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "49", "Miller, Robert J", "5", null, "44", "P", "75350.00", "59768.00", "0", "135118.00" ]
+, [ 169, "029807D0-1775-48D4-9844-524938CCDE73", 169, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "312", "Miranda, Anthony", "5", null, "34", "P", "0", "0", "0", "0" ]
+, [ 170, "C62A6085-23D4-4FDD-B873-18110747AD04", 170, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "419", "Molinaro, James P", "4", "S", null, "P", "605615.00", "273841.00", "0", "879456.00" ]
+, [ 171, "1FE1893D-BBE2-400D-9633-0293B24A553B", 171, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "272", "Monserrate, Hiram", "5", null, "21", "P", "74430.00", "0", "0", "74430.00" ]
+, [ 172, "E78D4B81-2170-4FD5-87A3-C7A867378EE8", 172, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "F5", "Montano, Armando", "5", null, "18", "P", "90883.00", "0", "0", "90883.00" ]
+, [ 173, "756AA71B-B902-4189-A6D0-102470CF8725", 173, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "495", "Moran, Janey", "5", null, "51", "P", "0", "56284.00", "0", "56284.00" ]
+, [ 174, "AAC87286-74E2-460E-96A5-691150E3674D", 174, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "D0", "Morgan, Ishmael J", "5", null, "27", "P", "0", "21800.00", "0", "21800.00" ]
+, [ 175, "438B7C16-C542-4E76-AAF4-99C20F90F001", 175, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "555", "Morillo, Pedro", "5", null, "7", "P", "0", "0", "0", "0" ]
+, [ 176, "5F23999C-6E86-4A8C-9002-FA45C3284EDF", 176, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "367", "Morisete-Romero, Victor", "5", null, "10", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 177, "1538F677-2142-4BF6-8AEB-A80BE3B6BCD8", 177, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "BW", "Moskowitz, Eva S", "5", null, "4", "P", "75350.00", "75150.00", "0", "150500.00" ]
+, [ 178, "C15AE220-3172-4928-A8DA-E4ED0D4FA1B0", 178, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "207", "Nelson, Michael C", "5", null, "48", "P", "0", "63168.00", "0", "63168.00" ]
+, [ 179, "EDEC7D25-AE7C-4AD0-8FAA-5BC319E5AAF5", 179, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "267", "Norman, Edward J", "5", null, "34", "P", "65496.00", "0", "0", "65496.00" ]
+, [ 180, "AC4C1BC5-8E9E-4AA7-BB62-784CDBAAF28A", 180, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "565", "Nunes-Ueno, Paulo", "4", "K", null, "P", "0", "0", "0", "0" ]
+, [ 181, "FDA26F29-748D-471C-9F75-DF1DD8F1AD0B", 181, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "A3", "O'Donovan, Jerome X", "4", "S", null, "P", "0", "647350.00", "0", "647350.00" ]
+, [ 182, "724D74C2-569C-49B9-9A75-F07068300CF1", 182, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "542", "O'Malley, Patrick", "5", null, "26", "P", "68724.00", "0", "0", "68724.00" ]
+, [ 183, "EB104575-27B9-422F-BB98-0AD2114906B0", 183, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "214", "Oddo, James S", "5", null, "50", "P", "0", "75350.00", "0", "75350.00" ]
+, [ 184, "6B2145B8-F239-436B-AF84-A3C4C546F7D4", 184, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "278", "Ortiz, Jr., Edwin O", "5", null, "15", "P", "31308.00", "15444.00", "0", "46752.00" ]
+, [ 185, "A5A1CB5D-6709-47B4-8981-691CE5148181", 185, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "247", "Palmer, Samuel E", "5", null, "45", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 186, "2926779A-C2BB-4F54-ACD3-D1B85239BC50", 186, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "277", "Park, Terence Y", "5", null, "20", "P", "67286.00", "0", "0", "67286.00" ]
+, [ 187, "C9098552-C292-43C2-BB90-0E1CAD57BB49", 187, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "466", "Parker, Kevin", "5", null, "45", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 188, "EB5C29DE-C00B-4CF2-B984-62AA28D3C63A", 188, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "315", "Perez, Richard", "5", null, "37", "P", "63756.00", "0", "0", "63756.00" ]
+, [ 189, "3CDE5312-714F-41D9-9752-9ED37EFAD696", 189, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "D2", "Perkins, Bill", "5", null, "9", "P", "75350.00", "46300.00", "0", "121650.00" ]
+, [ 190, "5E804962-67DC-4E91-9AB6-344093F0FB5A", 190, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "582", "Pina, Tirso S", "5", null, "10", "P", "0", "0", "0", "0" ]
+, [ 191, "D6AA8C6B-C3AA-43E0-A9C9-D853F1D30FEB", 191, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "249", "Poisson, Lola", "5", null, "40", "P", "0", "0", "0", "0" ]
+, [ 192, "54621EF4-4840-4E6A-919A-25484069FD4C", 192, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "401", "Puello, Giovanni", "5", null, "10", "P", "37084.00", "13768.00", "0", "50852.00" ]
+, [ 193, "ACA08D1C-959A-4BF8-8DE6-34717D050F89", 193, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "391", "Pugliese, Anthony J", "5", null, "39", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 194, "6C714554-07D1-4D2F-BCCF-6621AF70B307", 194, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "478", "Purcell, Frances G", "5", null, "40", "P", "67932.00", "0", "0", "67932.00" ]
+, [ 195, "36B5BA5B-D9FA-4801-A0C1-98DB9070CC85", 195, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "204", "Quinn, Christine C", "5", null, "3", "P", "0", "0", "0", "0" ]
+, [ 196, "175DDFBE-D8AC-409D-A8DA-621F1F9B3A39", 196, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "LW", "Recchia, Domenic", "5", null, "47", "P", "75350.00", "60977.00", "0", "136327.00" ]
+, [ 197, "28E7171B-437A-433F-993F-683A8A6206F2", 197, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "DC", "Reed, Philip", "5", null, "8", "P", "75350.00", "75350.00", "0", "150700.00" ]
+, [ 198, "83C0E41F-57C9-4C66-B750-91D8AE8D1D42", 198, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "371", "Reich, David", "5", null, "24", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 199, "86238E04-C49A-49A5-8461-DA7972E9C264", 199, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "348", "Reiss, David J", "5", null, "33", "P", "46048.00", "0", "0", "46048.00" ]
+, [ 200, "29A69379-75A9-4457-A34E-D8421AB15731", 200, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "452", "Reyna, Diana", "5", null, "34", "P", "75350.00", "74952.00", "0", "150302.00" ]
+, [ 201, "6B0E4E8F-4316-47FA-9622-07D7265B952F", 201, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "361", "Rivera, Joel", "5", null, "15", "P", "50340.00", "20104.00", "0", "70444.00" ]
+, [ 202, "9E269A32-639D-4E51-85E0-60E5031CE813", 202, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "Q2", "Roberts, Edward A", "5", null, "40", "P", "37780.00", "0", "0", "37780.00" ]
+, [ 203, "7B1395B2-D6C6-4779-A152-EC385E294EB4", 203, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "CQ", "Rodriguez, Angel", "5", null, "38", "P", "0", "75350.00", "0", "75350.00" ]
+, [ 204, "5F26BF45-3EB6-45FD-8546-5E6B94A29F1D", 204, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "464", "Rodriguez, Elizabeth", "5", null, "18", "P", "31685.00", "0", "0", "31685.00" ]
+, [ 205, "D9DF6F18-A9FA-42DB-A54C-1EAF8895F952", 205, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "353", "Rodriguez, Ydanis A", "5", null, "10", "P", "69780.00", "46806.00", "0", "116586.00" ]
+, [ 206, "3F52BD58-6066-4060-885C-6DADB57B9155", 206, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "456", "Romero, Michelle", "5", null, "37", "P", "22172.00", "0", "0", "22172.00" ]
+, [ 207, "58B8570E-08AB-4175-882F-3458B5D14E68", 207, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "292", "Rose, Deborah", "5", null, "49", "P", "75350.00", "57116.00", "0", "132466.00" ]
+, [ 208, "A46C1F43-884C-423C-B570-5400C0705F36", 208, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "381", "Rosero, Luis", "5", null, "21", "P", "65356.00", "0", "0", "65356.00" ]
+, [ 209, "0C9F8078-6BE5-491E-934F-04D42E7F9F05", 209, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "AI", "Ruiz, Jr., Israel", "5", null, "14", "P", "11423.00", "0", "0", "11423.00" ]
+, [ 210, "F3D11CC5-F394-4F67-816E-7A33AB916E0C", 210, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "276", "Rupnarain, Trevor K", "5", null, "28", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 211, "1E35147D-358A-45D4-8DE4-CF89696CEB68", 211, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "436", "Saffran, Dennis J", "5", null, "19", "P", "0", "75350.00", "0", "75350.00" ]
+, [ 212, "D0BD7CA7-5FB9-4A08-99D2-B0989C85A489", 212, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "465", "Sanchez, Cynthia M", "5", null, "47", "P", "0", "0", "0", "0" ]
+, [ 213, "5BD5B8EF-4710-4FCD-A3ED-114BD0433236", 213, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "286", "Sanders, Jr., James J", "5", null, "31", "P", "60152.00", "0", "0", "60152.00" ]
+, [ 214, "A6D5772F-BC8B-409F-89B0-D3CA4487E661", 214, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "411", "Sansivieri, Linda", "5", null, "30", "P", "75040.00", "0", "0", "75040.00" ]
+, [ 215, "C4118476-1D58-4B54-800A-B9EBC3B86096", 215, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "384", "Sauer, Larry M", "5", null, "6", "P", "62436.00", "0", "0", "62436.00" ]
+, [ 216, "F4B86719-1C3F-4922-A715-B673FAEC3885", 216, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "EF", "Saunders, Shirley J", "5", null, "12", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 217, "C9F8A1EF-08A9-4AF3-9B3B-810B08FEFCAD", 217, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "385", "Saunders, William J", "5", null, "35", "P", "42075.00", "0", "0", "42075.00" ]
+, [ 218, "779E52BF-0E2C-44D1-BACE-89B9109008FB", 218, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "433", "Schulman, Lynn C", "5", null, "29", "P", "74920.00", "0", "0", "74920.00" ]
+, [ 219, "2B8DB5E1-50DC-461F-9974-2F010BF0A876", 219, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "461", "Schultheis, Magdalena U", "5", null, "25", "P", "38088.00", "0", "0", "38088.00" ]
+, [ 220, "5FB5026A-C713-4554-8F6A-A82B6769EBBD", 220, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "320", "Scissura, Carlo A", "5", null, "43", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 221, "CEB2B8ED-F189-4B30-ABEE-C9E6979040B2", 221, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "G9", "Seabrook, Larry B", "5", null, "12", "P", "75350.00", "27076.00", "0", "102426.00" ]
+, [ 222, "16BA72EB-8C27-4247-818F-CC2C7F8F79D5", 222, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "SH", "Sears, Helen", "5", null, "25", "P", "74850.00", "43065.00", "0", "117915.00" ]
+, [ 223, "4DD04346-F920-4124-88D8-A72A8F9A7AE4", 223, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "395", "Seeman, Craig A", "5", null, "33", "P", "0", "31632.00", "0", "31632.00" ]
+, [ 224, "18EB4243-7160-41F9-93BE-D83A30F57C29", 224, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "IZ", "Sementilli, Egidio J", "5", null, "13", "P", "89502.00", "0", "0", "89502.00" ]
+, [ 225, "604897AD-A34A-4A6A-B4F9-D6C8D7FDB340", 225, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "C2", "Seminara, Joanne", "5", null, "43", "P", "75350.00", "75350.00", "0", "150700.00" ]
+, [ 226, "EAA6118D-A623-4254-851F-2E6BCDFB0AD7", 226, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "558", "Seminerio, John", "5", null, "32", "P", "74350.00", "0", "0", "74350.00" ]
+, [ 227, "B21820E4-69D2-4779-9DD3-07FE535F48E9", 227, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "487", "Serrano, Jose M", "5", null, "17", "P", "58348.00", "16812.00", "0", "75160.00" ]
+, [ 228, "332F1F68-4EFE-4971-BCD1-8B0574C8026B", 228, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "370", "Sharpe, Wellington", "5", null, "40", "P", "0", "0", "0", "0" ]
+, [ 229, "6CDF1D8C-80BF-4694-8891-084A60399853", 229, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "285", "Shepard, Joyce P", "5", null, "19", "P", "55100.00", "0", "0", "55100.00" ]
+, [ 230, "5DF02E8B-51CC-4B11-BF0E-5D874E7E052D", 230, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "557", "Sica, Philip T", "5", null, "23", "P", "0", "14632.00", "0", "14632.00" ]
+, [ 231, "16937C96-23F5-4DED-927A-8566A9CFA5C8", 231, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "310", "Siegel, Norman H", "2", null, null, "P", "508893.00", "0", "114407.00", "623300.00" ]
+, [ 232, "6A3AF7B2-6D10-46E7-A19A-C03AD7FFB9D5", 232, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "332", "Simon, Lew M", "5", null, "32", "P", "74750.00", "0", "0", "74750.00" ]
+, [ 233, "A3F5431A-F205-45CF-900F-BA108C8EB3E9", 233, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "430", "Simons, Earl G", "5", null, "27", "P", "0", "0", "0", "0" ]
+, [ 234, "2867F9D4-2561-4C54-BF79-D36EE918F60E", 234, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "252", "Singer, Pat", "5", null, "47", "P", "59380.00", "1944.00", "0", "61324.00" ]
+, [ 235, "EAC56F35-3511-4614-9D1D-92D1A72FBCC2", 235, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "358", "Singh, Inderjit", "5", null, "28", "P", "0", "0", "0", "0" ]
+, [ 236, "E118AF6B-05A0-4602-BE42-C82317A4B70B", 236, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "531", "Smith, Larry", "5", null, "27", "P", "32189.00", "0", "0", "32189.00" ]
+, [ 237, "108ECEF2-FAEC-4E29-9690-36867BE2ED93", 237, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "575", "Snyder, Gary D", "5", null, "6", "P", "0", "19124.00", "0", "19124.00" ]
+, [ 238, "2A6E6EC6-E795-4794-A8A0-91F9B45EF069", 238, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "362", "Spalter, Laura", "5", null, "11", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 239, "7DCD4E0C-EE7D-4845-B4C2-69AB74EA085D", 239, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "356", "Spencer, Tony", "5", null, "7", "P", "50782.00", "0", "0", "50782.00" ]
+, [ 240, "FBE58441-3210-473F-95D8-C13FDDEFBB41", 240, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "304", "Spirgel, Samuel C", "5", null, "44", "P", "75350.00", "22104.00", "0", "97454.00" ]
+, [ 241, "E727BB41-FC03-4639-8EB0-910A12227CD7", 241, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "Y3", "Spitz, George N", "1", null, null, "P", "0", "0", "0", "0" ]
+, [ 242, "42631165-27A4-454E-A0FE-6587BA4355CD", 242, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "H2", "Stabile, Alfonso C", "4", "Q", null, "P", "0", "0", "0", "0" ]
+, [ 243, "C4172E78-73B8-4086-A591-A50A6E456386", 243, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "345", "Stavitsky, Inna", "5", null, "47", "P", "53384.00", "0", "0", "53384.00" ]
+, [ 244, "B0A72D72-C6BB-4E04-9E0A-187F59B3ACC0", 244, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "CP", "Stewart, Kendall B", "5", null, "45", "P", "0", "75350.00", "0", "75350.00" ]
+, [ 245, "793721FE-9D7A-45E6-9A77-A64D9EE27E36", 245, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "450", "Straniere, Robert A", "4", "S", null, "P", "233756.00", "54632.00", "0", "288388.00" ]
+, [ 246, "D787B5A4-83AA-4FE5-8259-CB83244776D3", 246, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "148", "Stringer, Scott M", "2", null, null, "P", "950692.00", "35356.00", "237673.00", "1223721.00" ]
+, [ 247, "E318010D-B2C9-4346-A843-FC29C762C1A9", 247, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "490", "Taitt, Samuel A", "5", null, "45", "P", "58530.00", "0", "0", "58530.00" ]
+, [ 248, "02C7D90D-3050-4FEE-8EFC-7411AB765764", 248, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "577", "Taliaferro, Phyllis", "5", null, "46", "P", "0", "0", "0", "0" ]
+, [ 249, "02BFEC06-B5A0-46C8-978C-EB8901F0FE91", 249, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "GF", "Taveras, Germania", "5", null, "37", "P", "0", "0", "0", "0" ]
+, [ 250, "BF3CEEA3-3070-4B54-BD7F-EA7296C44CDB", 250, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "265", "Thakral, Jairam D", "5", null, "23", "P", "75064.00", "0", "0", "75064.00" ]
+, [ 251, "F428E775-2652-4590-AC13-5009E3C88890", 251, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "549", "Thomas, Carl W", "5", null, "40", "P", "0", "0", "0", "0" ]
+, [ 252, "0A740232-5A7B-4764-8576-AE8A7216E070", 252, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "260", "Thompson, Jr., William C", "3", null, null, "P", "895228.00", "201131.00", "0", "1096359.00" ]
+, [ 253, "3EC9AF86-53C6-4450-B41F-FDC50E49A752", 253, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "DH", "Tiraco, Joseph E", "5", null, "29", "P", "0", "0", "0", "0" ]
+, [ 254, "BF23959A-739A-4742-81A0-D8707A50B96D", 254, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "168", "Toney, Vaughan", "5", null, "45", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 255, "FA155A53-1544-4285-8C7B-05DF926F8144", 255, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "561", "Toppin, Roger N", "5", null, "12", "P", "0", "0", "0", "0" ]
+, [ 256, "F363FC24-12D9-4BE1-86A9-0631D2D8BCDF", 256, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "317", "Torres, Mario A", "5", null, "7", "P", "6732.00", "75350.00", "0", "82082.00" ]
+, [ 257, "EDDBC514-5F1D-4CA9-AF1B-BDBC24F2706E", 257, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "240", "Vallone, Jr., Peter F", "5", null, "22", "P", "75150.00", "39760.00", "0", "114910.00" ]
+, [ 258, "9A78F2FA-08E9-4168-B25E-110BE9C94812", 258, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "B1", "Vallone, Peter F", "1", null, null, "P", "2458534.00", "0", "0", "2458534.00" ]
+, [ 259, "714247BF-5BF4-457C-9357-C913A5AA2E6A", 259, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "337", "Van Bramer, James G", "5", null, "25", "P", "75350.00", "57796.00", "0", "133146.00" ]
+, [ 260, "9F32B08B-8A3A-4110-839E-F59713E069E1", 260, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "202", "Vann, Albert", "5", null, "36", "P", "0", "75200.00", "0", "75200.00" ]
+, [ 261, "3A9D36AD-2066-4E51-B6ED-A8FF5720519B", 261, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "DP", "Vargas, Ruben Dario", "5", null, "10", "P", "0", "0", "0", "0" ]
+, [ 262, "1F135761-81A0-435A-BF8E-CA7296A6114A", 262, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "554", "Vassos, Sandra", "5", null, "22", "P", "0", "68234.00", "0", "68234.00" ]
+, [ 263, "72B5E367-D882-4FCE-936D-0B9C8637B4B2", 263, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "529", "Vernet, Jean D", "5", null, "40", "P", "64932.00", "5732.00", "0", "70664.00" ]
+, [ 264, "EA4E25C9-612B-4F3D-89D7-8F6B26D3975E", 264, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "521", "Viest, Nicholas D", "5", null, "4", "P", "0", "58488.00", "0", "58488.00" ]
+, [ 265, "F91B084B-FAED-4A1D-90E8-52A340FB8A2F", 265, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "CY", "Villaverde, Sergio", "5", null, "14", "P", "0", "0", "0", "0" ]
+, [ 266, "B76D3522-4856-4EAD-8A6F-79E65B4128EA", 266, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "327", "Vogel, Mark H", "5", null, "11", "P", "50112.00", "0", "0", "50112.00" ]
+, [ 267, "F79134DD-5DE6-4C7B-8791-EA8BB7C4C28F", 267, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "382", "Wai, Sidique A", "5", null, "35", "P", "0", "62184.00", "0", "62184.00" ]
+, [ 268, "72494437-C32B-4626-B9E5-1DE9D03540CB", 268, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "513", "Walker, John P", "4", "S", null, "P", "0", "44748.00", "0", "44748.00" ]
+, [ 269, "0D83E4E0-474F-4290-A859-122332815D35", 269, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "510", "Walker, Willie", "5", null, "9", "P", "0", "0", "0", "0" ]
+, [ 270, "192D77FF-FE40-41BF-A146-BE87D9322E7A", 270, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "586", "Walsh, Ryan J", "5", null, "20", "P", "0", "21946.00", "0", "21946.00" ]
+, [ 271, "8B06A509-1404-4728-8B5A-5AC8DE74AAD4", 271, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "412", "Wasserman, Abraham E", "5", null, "35", "P", "41656.00", "0", "0", "41656.00" ]
+, [ 272, "3CC8E6EE-F9DF-416D-AB14-68540329579B", 272, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "475", "Wein, Joseph Funicell", "5", null, "50", "P", "61260.00", "0", "0", "61260.00" ]
+, [ 273, "F609DE63-3A75-42C9-A56B-1858719CDB7E", 273, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "551", "Weir, Elias J", "5", null, "46", "P", "0", "0", "0", "0" ]
+, [ 274, "65D2447B-BF25-4E0E-825E-5A767A9E12F9", 274, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "232", "Weprin, David I", "5", null, "23", "P", "75350.00", "70500.00", "0", "145850.00" ]
+, [ 275, "9197F20E-01CD-4598-B8B7-8084A5A4962A", 275, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "441", "Whitney, W Ruth", "5", null, "40", "P", "0", "0", "0", "0" ]
+, [ 276, "A7C41B53-E17D-4CE3-91E2-6742972D73C6", 276, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "568", "Willebrand, Julia A", "1", null, null, "P", "0", "0", "0", "0" ]
+, [ 277, "1F360AA5-4F1C-41CE-9D81-F7E7A1295492", 277, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "583", "Williams, Charles", "5", null, "14", "P", "35808.00", "0", "0", "35808.00" ]
+, [ 278, "844B64C7-F3D5-4013-AAF5-D09A552B3D80", 278, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "528", "Williams, Peter M", "5", null, "35", "P", "75350.00", "0", "0", "75350.00" ]
+, [ 279, "20FD2993-F509-4BF4-ACD0-B28AFA5C0F3C", 279, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "489", "Williams-Pereira, Dorothy", "4", "Q", null, "P", "0", "0", "0", "0" ]
+, [ 280, "9D181CE6-2CA9-43EC-AAB9-E6E1593396F8", 280, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "588", "Wilson, Jay R", "5", null, "2", "P", "0", "0", "0", "0" ]
+, [ 281, "C50E6A4C-BDE9-4F12-97F4-95D467013540", 281, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "537", "Wilson, John H", "5", null, "13", "P", "0", "0", "0", "0" ]
+, [ 282, "04C6D19F-FF63-47B0-B26D-3B8F98B4C16B", 282, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "559", "Wooten, Donald T", "5", null, "42", "P", "0", "0", "0", "0" ]
+, [ 283, "A451E0E9-D382-4A97-AAD8-D7D382055F8D", 283, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "280", "Yassky, David", "5", null, "33", "P", "75350.00", "75350.00", "0", "150700.00" ]
+, [ 284, "E84BCD0C-D6F4-450F-B55B-3199A265C781", 284, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "274", "Zapiti, Mike", "5", null, "22", "P", "12172.00", "0", "0", "12172.00" ]
+, [ 285, "5BBC9676-2119-4FB5-9DAB-DE3F71B7681A", 285, 1315925633, "392904", 1315925633, "392904", "{\n}", "2001", "442", "Zett, Lori M", "5", null, "24", "P", "0", "0", "0", "0" ]
+ ]
+}
