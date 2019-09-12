@@ -5,7 +5,9 @@ class MRWordFreqCount(MRJob):
 
     def mapper(self, _, line):
         line = line.strip()
-        line = line.replace(string.punctuation, '')
+        # Remove punctuations
+        for s in string.punctuation:
+            line = line.replace(s, '')
         words = line.split()
         for word in words:
             yield (word.lower(), 1)
