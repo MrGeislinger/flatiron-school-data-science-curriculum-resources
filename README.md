@@ -81,15 +81,16 @@
 
 ## Module 4 Section 29 - Introduction to Logistic Regression
 
+* Logistic Regression Intro
+    - [logistic_regression_intro.ipynb](MachineLearning/LogisticRegression/logistic_regression_intro.ipynb)
 * Logistic Regression 
-    - [logistic_regression.ipynb](MachineLearning/LogisticRegression/logistic_regression.ipynb)
+- [logistic_regression.ipynb](MachineLearning/LogisticRegression/logistic_regression.ipynb)
 * Evaluation Metrics (Confusion Matrices)
     - [evaluation_metrics.ipynb](EvaluatingModels/evaluation_metrics.ipynb)
 * Evaluation Curves (ROC & AUC)
     - [evaluation_curves.ipynb](EvaluatingModels/evaluation_curves.ipynb)
 
 ## Module 4 Section 30 - In-depth Logistic Regression
-
 
 ## Module 4 Section 31 - Working with Time Series Data
 
@@ -98,7 +99,7 @@
 </details>
 
 <details>
-<summary style="font-weight:bold;">Module 4</summary>
+<summary style="font-weight:bold;">Module 5</summary>
 
 ## Module 5 Section 33 - K Nearest Neighbors
 
