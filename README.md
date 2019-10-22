@@ -4,6 +4,7 @@
 
 <details>
 <summary style="font-weight:bold;">Module 3</summary>
+    
 ## Module 3 Section 17 - Combinatorics 
 
 * [probability_and_notation.ipynb](ProbabilityAndStats/Probability/probability_and_notation.ipynb)
@@ -65,7 +66,7 @@
 * [mle_parameter_inference.ipynb](ProbabilityAndStats/Probability/mle_parameter_inference.ipynb)
 -->
 
-</summary>
+</details>
 
 <details>
 <summary style="font-weight:bold;">Module 4</summary>
@@ -93,5 +94,80 @@
 ## Module 4 Section 31 - Working with Time Series Data
 
 ## Module 4 Section 32 - Time Series Modeling
-    
+ 
+</details>
+
+<details>
+<summary style="font-weight:bold;">Module 4</summary>
+
+## Module 5 Section 33 - K Nearest Neighbors
+
+* Distance Metrics
+    - [distance_metrics.ipynb](MachineLearning/KNN/distance_metrics.ipynb)
+* K Nearest Neighbors
+    - [k_nearest_neighbors.ipynb](MachineLearning/KNN/k_nearest_neighbors.ipynb)
+
+## Module 5 Section 34 - Decision Trees
+
+* Decision Trees Intro
+    - [decision_trees_intro.ipynb](MachineLearning/DecisionTrees/decision_trees_intro.ipynb)
+* Creating Decision Trees
+    - [creating_decision_trees.ipynb](MachineLearning/DecisionTrees/creating_decision_trees.ipynb)
+ 
+
+## Module 5 Section 35 - Ensemble Methods
+
+* Ensemble Methods (Bagging, Random Forest, Adaboost, Gradient Boosting)
+    - [ensembles.ipynb](MachineLearning/Ensembles/ensembles.ipynb)
+
+## Module 5 Section 36 - Support Vector Machines
+
+* Support Vector Machine Intro
+    - [support_vector_machine_intro.ipynb](MachineLearning/SupportVectorMachine/support_vector_machine_intro.ipynb)
+* Kernel Trick
+    - [kernel_trick.ipynb](MachineLearning/SupportVectorMachine/kernel_trick.ipynb)
+* Support Vector Machine Intro
+    - [support_vector_machine_intro.ipynb](MachineLearning/SupportVectorMachine/support_vector_machine_intro.ipynb)    
+
+## Module 5 Section 37 - Principal Component Analysis
+
+* Dimensionality
+    - [dimensionality.ipynb](MachineLearning/PCA/dimensionality.ipynb)
+* Principal Component Analysis
+    - [pca.ipynb](MachineLearning/PCA/pca.ipynb)    
+
+## Module 5 Section 38 - Clustering
+
+* K-means
+    - [k-means.ipynb](MachineLearning/Clustering/k-means.ipynb)
+* Hierarchical Clustering 
+    - [hierarchical_clustering.ipynb](MachineLearning/Clustering/hierarchical_clustering.ipynb)    
+
+## Module 5 Section 39 - Building a Machine Learning Pipeline
+
+* WORK IN PROGRESS
+    - [#](#)
+
+## Module 5 Section 40 - Big Data in PySpark
+
+* Big Data Intro
+    - [big_data_intro.ipynb](BigData/PySpark/big_data_intro.ipynb)
+* Distributed Parallel Computing
+    - [distributed_parallel_computing.ipynb](BigData/PySpark/distributed_parallel_computing.ipynb)
+* Tools of Distributed Systems
+    - [tools_of_distributed_systems.ipynb](BigData/PySpark/tools_of_distributed_systems.ipynb)
+* MapReduce
+    - [map_reduce.ipynb](BigData/PySpark/map_reduce.ipynb)
+* MapReduce Code
+    - [map_reduce_code.ipynb](BigData/PySpark/map_reduce_code.ipynb)
+
+## Module 5 Section 41 - Recommendation Systems
+
+* Matrix Factorization
+    - [matrix-factorization.ipynb](MachineLearning/RecommendationSystems/matrix-factorization.ipynb)
+* Neighbor Memory Based Collab Filtering
+    - [neighbor-memory-based-collab-filtering.ipynb](MachineLearning/RecommendationSystems/neighbor-memory-based-collab-filtering.ipynb)
+* Recommendation Systems
+    - [recommendation-systems-intro.ipynb](MachineLearning/RecommendationSystems/recommendation-systems-intro.ipynb)    
+
 </details>
