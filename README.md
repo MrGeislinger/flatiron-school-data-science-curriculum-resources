@@ -88,16 +88,37 @@
 
 ## Module 4 Section 26 - Linear Algebra
 
+* Linear Algebra Intro
+    - [intro_to_linear_algebra](Mathematics/LinearAlgebra/intro_to_linear_algebra.ipynb)
+* Math with Tensors
+    - [math_with_tensors.ipynb](Mathematics/LinearAlgebra/math_with_tensors.ipynb)
+* Solving With Linear Algebra
+    - [solving_with_linear_algebra.ipynb](Mathematics/LinearAlgebra/solving_with_linear_algebra.ipynb)    
+
 ## Module 4 Section 27 - Calculus, Cost Function, and Gradient Descent
 
+Derivatives
+    - [derivatives.ipynb](Mathematics/Calculus/derivatives.ipynb)
+* Gradient Descent
+    - [gradient_descent.ipynb](Mathematics/Calculus/gradient_descent.ipynb)
+* Gradient Descent Walkthrough
+    - [walkthrough_gradient_descent.ipynb](Mathematics/Calculus/walkthrough_gradient_descent.ipynb)    
+
 ## Module 4 Section 28 - Extensions to Linear Models
+
+* Improving Linear Regression (Interactions & Polynomial)
+    - [improving_linear_regression.ipynb](StatisticalModeling/ExtendingLinearRegression/improving_linear_regression.ipynb)
+* Regularization
+    - [regularization.ipynb](StatisticalModeling/ExtendingLinearRegression/regularization.ipynb)
+* Bias & Variance
+    - [bias_and_variance.ipynb](EvaluatingModels/bias_and_variance.ipynb)
 
 ## Module 4 Section 29 - Introduction to Logistic Regression
 
 * Logistic Regression Intro
     - [logistic_regression_intro.ipynb](MachineLearning/LogisticRegression/logistic_regression_intro.ipynb)
 * Logistic Regression 
-- [logistic_regression.ipynb](MachineLearning/LogisticRegression/logistic_regression.ipynb)
+    - [logistic_regression.ipynb](MachineLearning/LogisticRegression/logistic_regression.ipynb)
 * Evaluation Metrics (Confusion Matrices)
     - [evaluation_metrics.ipynb](EvaluatingModels/evaluation_metrics.ipynb)
 * Evaluation Curves (ROC & AUC)
@@ -107,7 +128,18 @@
 
 ## Module 4 Section 31 - Working with Time Series Data
 
+* Time Series Models
+    - [time_series_intro.ipynb](StatisticalModeling/TimeSeries/time_series_intro.ipynb)
+* Time Series Trends
+    - [time_series_trends.ipynb](StatisticalModeling/TimeSeries/time_series_trends.ipynb)
+
 ## Module 4 Section 32 - Time Series Modeling
+
+* Time Series Models Intro
+    - [time_series_models_basic.ipynb](StatisticalModeling/TimeSeries/time_series_models_basic.ipynb)
+* ARMA Model
+    - [time_series_model_arma.ipynb](StatisticalModeling/TimeSeries/time_series_model_arma.ipynb)
+
  
 </details>
 
