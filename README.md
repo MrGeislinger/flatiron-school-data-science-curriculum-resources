@@ -17,7 +17,6 @@
 * [statistical_distributions_intro.ipynb](ProbabilityAndStats/StatisticalDistributions/statistical_distributions_intro.ipynb)
 * [statistical_distributions.ipynb](ProbabilityAndStats/StatisticalDistributions/statistical_distributions.ipynb)
 
-
 ## Module 3 Section 19 - Central Limit Theorem
 
 * Central Limit Theorem
@@ -27,7 +26,6 @@
 * Confidence Intervals
     - [confidence-intervals.ipynb](ProbabilityAndStats/StatisticalDistributions/confidence-intervals.ipynb)
     - [t_distributions.ipynb](ProbabilityAndStats/StatisticalDistributions/t_distributions.ipynb)
-
 
 ## Module 3 Section 20 - Hypothesis Testing
 
@@ -43,7 +41,6 @@
 * Type 1 & Type 2 Errors
     - [types_of_errors.ipynb](ProbabilityAndStats/ExperimentalDesign/types_of_errors.ipynb)
 
-
 ## Module 3 Section 21 - Statistical Power & ANOVA
 
 * Statistical Power
@@ -56,15 +53,31 @@
 * ANOVA
     - [anova.ipynb](ProbabilityAndStats/ExperimentalDesign/anova.ipynb)
 
-
 ## Module 3 Section 22 - AB Testing
 
-* AB Testing
+* A/B Testing
     - [ab_testings.ipynb](ProbabilityAndStats/ExperimentalDesign/ab_testings.ipynb)
     
 <!--
 * [mle_parameter_inference.ipynb](ProbabilityAndStats/Probability/mle_parameter_inference.ipynb)
 -->
+
+## Module 3 Section 23 - Bayesian Statistics
+
+* Bayes Theorem
+    - [bayes_theorem.ipynb](ProbabilityAndStats/BayesianClassification/bayes_theorem.ipynb)
+* Naive Bayes
+    - [naive_bayes_classification.ipynb](ProbabilityAndStats/BayesianClassification/naive_bayes_classification.ipynb)
+      
+## Module 3 Section 24 - Resampling and Monte Carlo Simulation
+
+* Data Generation
+    - [data_generation.ipynb](ProbabilityAndStats/DataGeneration/data_generation.ipynb)
+* Resampling
+    - [resampling.ipynb](ProbabilityAndStats/DataGeneration/resampling.ipynb)
+* Monte Carlo
+    - [monte-carlo.ipynb](ProbabilityAndStats/DataGeneration/monte-carlo.ipynb)    
+
 
 </details>
 
