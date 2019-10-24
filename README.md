@@ -128,8 +128,10 @@ Derivatives
 
 ## Module 4 Section 31 - Working with Time Series Data
 
-* Time Series Models
+* Time Series Intro
     - [time_series_intro.ipynb](StatisticalModeling/TimeSeries/time_series_intro.ipynb)
+* Time Series Visualization
+    - [time_series_visualization.ipynb](StatisticalModeling/TimeSeries/time_series_visualization.ipynb)    
 * Time Series Trends
     - [time_series_trends.ipynb](StatisticalModeling/TimeSeries/time_series_trends.ipynb)
 
