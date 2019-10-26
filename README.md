@@ -76,7 +76,8 @@
 * Resampling
     - [resampling.ipynb](ProbabilityAndStats/DataGeneration/resampling.ipynb)
 * Monte Carlo
-    - [monte_carlo.ipynb](ProbabilityAndStats/DataGeneration/monte_carlo.ipynb)    
+    - [monte_carlo.ipynb](ProbabilityAndStats/DataGeneration/monte_carlo.ipynb) 
+    - [ultimate_hopscotch_simulation.ipynb](ProbabilityAndStats/DataGeneration/ultimate_hopscotch_simulation.ipynb)
 
 
 </details>
