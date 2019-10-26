@@ -76,7 +76,7 @@
 * Resampling
     - [resampling.ipynb](ProbabilityAndStats/DataGeneration/resampling.ipynb)
 * Monte Carlo
-    - [monte-carlo.ipynb](ProbabilityAndStats/DataGeneration/monte-carlo.ipynb)    
+    - [monte_carlo.ipynb](ProbabilityAndStats/DataGeneration/monte_carlo.ipynb)    
 
 
 </details>
