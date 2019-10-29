@@ -174,9 +174,7 @@ Derivatives
 * Support Vector Machine Intro
     - [support_vector_machine_intro.ipynb](MachineLearning/SupportVectorMachine/support_vector_machine_intro.ipynb)
 * Kernel Trick
-    - [kernel_trick.ipynb](MachineLearning/SupportVectorMachine/kernel_trick.ipynb)
-* Support Vector Machine Intro
-    - [support_vector_machine_intro.ipynb](MachineLearning/SupportVectorMachine/support_vector_machine_intro.ipynb)    
+    - [kernel_trick.ipynb](MachineLearning/SupportVectorMachine/kernel_trick.ipynb) 
 
 ## Module 5 Section 37 - Principal Component Analysis
 
