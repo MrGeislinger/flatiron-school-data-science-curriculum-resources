@@ -158,16 +158,19 @@ Derivatives
 
 ## Module 5 Section 34 - Decision Trees
 
-* Decision Trees Intro
+* Decision Trees
     - [decision_trees_intro.ipynb](MachineLearning/DecisionTrees/decision_trees_intro.ipynb)
-* Creating Decision Trees
-    - [creating_decision_trees.ipynb](MachineLearning/DecisionTrees/creating_decision_trees.ipynb)
+    - [information_to_make_decisions.ipynb](MachineLearning/DecisionTrees/information_to_make_decisions.ipynb)
+    - [decision_tree_hyperparameters.ipynb](MachineLearning/DecisionTrees/decision_tree_hyperparameters.ipynb)
+    - [decision_tree_code_example.ipynb](MachineLearning/DecisionTrees/decision_tree_code_example.ipynb)    
  
 
 ## Module 5 Section 35 - Ensemble Methods
 
 * Ensemble Methods (Bagging, Random Forest, Adaboost, Gradient Boosting)
-    - [ensembles.ipynb](MachineLearning/Ensembles/ensembles.ipynb)
+    - [ensemble_methods.ipynb](MachineLearning/Ensembles/ensemble_methods.ipynb)
+    - [bagging.ipynb](MachineLearning/Ensembles/bagging.ipynb)
+    - [boosting.ipynb](MachineLearning/Ensembles/boosting.ipynb)
 
 ## Module 5 Section 36 - Support Vector Machines
 
@@ -181,19 +184,25 @@ Derivatives
 * Dimensionality
     - [dimensionality.ipynb](MachineLearning/PCA/dimensionality.ipynb)
 * Principal Component Analysis
-    - [pca.ipynb](MachineLearning/PCA/pca.ipynb)    
+    - [pca.ipynb](MachineLearning/PCA/pca.ipynb)
+    - [pca_example.ipynb](MachineLearning/PCA/pca_example.ipynb)
 
 ## Module 5 Section 38 - Clustering
 
 * K-means
-    - [k-means.ipynb](MachineLearning/Clustering/k-means.ipynb)
+    - [k_means.ipynb](MachineLearning/Clustering/k_means.ipynb)
+    - [k_means_issues.ipynb](MachineLearning/Clustering/k_means_issues.ipynb)
 * Hierarchical Clustering 
-    - [hierarchical_clustering.ipynb](MachineLearning/Clustering/hierarchical_clustering.ipynb)    
+    - [hierarchical_clustering.ipynb](MachineLearning/Clustering/hierarchical_clustering.ipynb)
+* DBSCAN
+    - [dbscan.ipynb](MachineLearning/Clustering/dbscan.ipynb)    
 
 ## Module 5 Section 39 - Building a Machine Learning Pipeline
 
-* WORK IN PROGRESS
-    - [#](#)
+* Pipelines
+    - [pipeline_intro.ipynb](MachineLearning/Pipelines/pipeline_intro.ipynb)
+* Grid Search
+    - [grid_search.ipynb](MachineLearning/Pipelines/grid_search.ipynb)
 
 ## Module 5 Section 40 - Big Data in PySpark
 
