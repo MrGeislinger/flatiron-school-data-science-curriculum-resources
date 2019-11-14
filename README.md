@@ -219,11 +219,11 @@ Derivatives
 
 ## Module 5 Section 41 - Recommendation Systems
 
+* Recommendation Systems
+    - [recommendation_systems_intro.ipynb](MachineLearning/RecommendationSystems/recommendation_systems_intro.ipynb)
 * Matrix Factorization
     - [matrix-factorization.ipynb](MachineLearning/RecommendationSystems/matrix-factorization.ipynb)
 * Neighbor Memory Based Collab Filtering
     - [neighbor-memory-based-collab-filtering.ipynb](MachineLearning/RecommendationSystems/neighbor-memory-based-collab-filtering.ipynb)
-* Recommendation Systems
-    - [recommendation-systems-intro.ipynb](MachineLearning/RecommendationSystems/recommendation-systems-intro.ipynb)    
 
 </details>
