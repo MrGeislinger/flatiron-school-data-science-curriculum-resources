@@ -224,7 +224,7 @@ Derivatives
 * Neighbor Memory Based Collab Filtering
     - [neighbor_memory_based_collab_filtering.ipynb](MachineLearning/RecommendationSystems/neighbor_memory_based_collab_filtering.ipynb)
 * Matrix Factorization
-    - [matrix-factorization.ipynb](MachineLearning/RecommendationSystems/matrix-factorization.ipynb)
+    - [matrix_factorization.ipynb](MachineLearning/RecommendationSystems/matrix_factorization.ipynb)
 
 
 </details>
