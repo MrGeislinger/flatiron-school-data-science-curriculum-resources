@@ -221,9 +221,10 @@ Derivatives
 
 * Recommendation Systems
     - [recommendation_systems_intro.ipynb](MachineLearning/RecommendationSystems/recommendation_systems_intro.ipynb)
+* Neighbor Memory Based Collab Filtering
+    - [neighbor_memory_based_collab_filtering.ipynb](MachineLearning/RecommendationSystems/neighbor_memory_based_collab_filtering.ipynb)
 * Matrix Factorization
     - [matrix-factorization.ipynb](MachineLearning/RecommendationSystems/matrix-factorization.ipynb)
-* Neighbor Memory Based Collab Filtering
-    - [neighbor-memory-based-collab-filtering.ipynb](MachineLearning/RecommendationSystems/neighbor-memory-based-collab-filtering.ipynb)
+
 
 </details>
