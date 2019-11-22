@@ -155,6 +155,7 @@ Derivatives
     - [distance_metrics.ipynb](MachineLearning/KNN/distance_metrics.ipynb)
 * K Nearest Neighbors
     - [k_nearest_neighbors.ipynb](MachineLearning/KNN/k_nearest_neighbors.ipynb)
+    
 
 ## Module 5 Section 34 - Decision Trees
 
@@ -163,7 +164,7 @@ Derivatives
     - [information_to_make_decisions.ipynb](MachineLearning/DecisionTrees/information_to_make_decisions.ipynb)
     - [decision_tree_hyperparameters.ipynb](MachineLearning/DecisionTrees/decision_tree_hyperparameters.ipynb)
     - [decision_tree_code_example.ipynb](MachineLearning/DecisionTrees/decision_tree_code_example.ipynb)    
- 
+
 
 ## Module 5 Section 35 - Ensemble Methods
 
@@ -172,12 +173,14 @@ Derivatives
     - [bagging.ipynb](MachineLearning/Ensembles/bagging.ipynb)
     - [boosting.ipynb](MachineLearning/Ensembles/boosting.ipynb)
 
+
 ## Module 5 Section 36 - Support Vector Machines
 
 * Support Vector Machine Intro
     - [support_vector_machine_intro.ipynb](MachineLearning/SupportVectorMachine/support_vector_machine_intro.ipynb)
 * Kernel Trick
     - [kernel_trick.ipynb](MachineLearning/SupportVectorMachine/kernel_trick.ipynb) 
+
 
 ## Module 5 Section 37 - Principal Component Analysis
 
@@ -187,6 +190,7 @@ Derivatives
     - [pca.ipynb](MachineLearning/PCA/pca.ipynb)
     - [pca_example.ipynb](MachineLearning/PCA/pca_example.ipynb)
 
+
 ## Module 5 Section 38 - Clustering
 
 * K-means
@@ -195,7 +199,8 @@ Derivatives
 * Hierarchical Clustering 
     - [hierarchical_clustering.ipynb](MachineLearning/Clustering/hierarchical_clustering.ipynb)
 * DBSCAN
-    - [dbscan.ipynb](MachineLearning/Clustering/dbscan.ipynb)    
+    - [dbscan.ipynb](MachineLearning/Clustering/dbscan.ipynb) 
+
 
 ## Module 5 Section 39 - Building a Machine Learning Pipeline
 
@@ -203,6 +208,13 @@ Derivatives
     - [pipeline_intro.ipynb](MachineLearning/Pipelines/pipeline_intro.ipynb)
 * Grid Search
     - [grid_search.ipynb](MachineLearning/Pipelines/grid_search.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Machine Learning Pipelines              | 2019-11-14 |[youtu.be/SjeEM0r7RZo](https://www.youtu.be/SjeEM0r7RZo)|
+|Grid Search of Hyperparameters          | 2019-11-14 |[youtu.be/oi2NjZPQcmQ](https://www.youtu.be/oi2NjZPQcmQ)|
 
 ## Module 5 Section 40 - Big Data in PySpark
 
@@ -216,6 +228,15 @@ Derivatives
     - [map_reduce.ipynb](BigData/PySpark/map_reduce.ipynb)
 * MapReduce Code
     - [map_reduce_code.ipynb](BigData/PySpark/map_reduce_code.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Big Data & MapReduce                    | 2019-11-12 |[youtu.be/LQVXvg1dL-8](https://youtu.be/LQVXvg1dL-8)|
+|Intro to Identifying & Handling Big Data| 2019-08-15 |[youtu.be/tRd_hVTxk24](https://youtu.be/tRd_hVTxk24)|
+|Intro to MapReduce                      | 2019-08-15 |[youtu.be/2Amvm-BpCxg](https://youtu.be/2Amvm-BpCxg)|
+|MapReduce Coding Example                | 2019-08-15 |[youtu.be/AwsWrryp6tY](https://youtu.be/AwsWrryp6tY)|
 
 ## Module 5 Section 41 - Recommendation Systems
 
@@ -225,6 +246,16 @@ Derivatives
     - [neighbor_memory_based_collab_filtering.ipynb](MachineLearning/RecommendationSystems/neighbor_memory_based_collab_filtering.ipynb)
 * Matrix Factorization
     - [matrix_factorization.ipynb](MachineLearning/RecommendationSystems/matrix_factorization.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Recommendation Systems Intro            | 2019-11-15 | [youtu.be/lIIAEVxRl50](https://youtu.be/lIIAEVxRl50) |
+|Neighbor-Based Collaboraitve Filtering  | 2019-11-15 | [youtu.be/pEOPyOCaoHw](https://youtu.be/pEOPyOCaoHw) |
+|Matrix Factorization & Embeddings       | 2019-11-15 | [youtu.be/olJKadbzdCQ](https://youtu.be/olJKadbzdCQ) |
+|Embeddings Discussion                   | 2019-11-15 | [youtu.be/V_6S4xw0JnQ](https://youtu.be/V_6S4xw0JnQ) |
+|Recommendation Systems & Embeddings     | 2019-09-18 | [youtu.be/m1pj8hVnmn0](https://youtu.be/m1pj8hVnmn0) |
 
 
 </details>
