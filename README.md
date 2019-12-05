@@ -259,3 +259,45 @@ Derivatives
 
 
 </details>
+
+<details>
+<summary style="font-weight:bold;">Module 6</summary>
+
+## Module 6 Section 42 - Graph Theory
+
+* Graph Theory
+    - [graph_theory_basics.ipynb](Mathematics/GraphTheory/graph_theory_basics.ipynb)
+    - [paths.ipynb](Mathematics/GraphTheory/paths.ipynb)
+    - [subgroup_clustering.ipynb](Mathematics/GraphTheory/subgroup_clustering.ipynb)
+    
+
+## Module 6 Section 43 - Foundations of Natural Language Processing
+
+* UNDER CONSTRUCTION  
+
+
+## Module 6 Section 44 - Introduction to Deep Learning
+
+* Neural Networks
+    - [neural_networks.ipynb](DeepLearning/NeuralNetworks/neural_networks.ipynb)
+    - [activation_functions.ipynb](DeepLearning/NeuralNetworks/activation_functions.ipynb)
+    - [keras_implementation.ipynb](MachineLearning/DeepLearning/keras_implementation.ipynb)
+
+
+## Module 6 Section 45 - Multi-Layer Perceptrons
+
+* Neural Networks & Parts
+    - [neural_networks.ipynb](DeepLearning/NeuralNetworks/neural_networks.ipynb)
+    - [activation_functions.ipynb](DeepLearning/NeuralNetworks/activation_functions.ipynb)
+    - [keras_implementation.ipynb](DeepLearning/NeuralNetworks/keras_implementation.ipynb)
+
+
+## Module 6 Section 46 - Tuning Neural Networks
+
+* Overfitting
+    - [avoiding_overfitting.ipynb](DeepLearning/NeuralNetworks/avoiding_overfitting.ipynb)
+* Optimization
+    - [optimizations.ipynb](DeepLearning/NeuralNetworks/optimizations.ipynb)
+
+
+</details>
