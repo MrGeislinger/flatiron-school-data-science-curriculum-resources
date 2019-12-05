@@ -266,9 +266,9 @@ Derivatives
 ## Module 6 Section 42 - Graph Theory
 
 * Graph Theory
-    - [graph_theory_basics.ipynb](Mathemtics/GraphTheory/graph_theory_basics.ipynb)
-    - [paths.ipynb](Mathemtics/GraphTheory/paths.ipynb)
-    - [subgroup_clustering.ipynb](Mathemtics/GraphTheory/subgroup_clustering.ipynb)
+    - [graph_theory_basics.ipynb](Mathematics/GraphTheory/graph_theory_basics.ipynb)
+    - [paths.ipynb](Mathematics/GraphTheory/paths.ipynb)
+    - [subgroup_clustering.ipynb](Mathematics/GraphTheory/subgroup_clustering.ipynb)
     
 
 ## Module 6 Section 43 - Foundations of Natural Language Processing
