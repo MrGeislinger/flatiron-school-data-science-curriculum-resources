@@ -218,16 +218,14 @@ Derivatives
 
 ## Module 5 Section 40 - Big Data in PySpark
 
-* Big Data Intro
-    - [big_data_intro.ipynb](BigData/PySpark/big_data_intro.ipynb)
-* Distributed Parallel Computing
-    - [distributed_parallel_computing.ipynb](BigData/PySpark/distributed_parallel_computing.ipynb)
-* Tools of Distributed Systems
-    - [tools_of_distributed_systems.ipynb](BigData/PySpark/tools_of_distributed_systems.ipynb)
+* Big Data Introduction
+    - [big_data_intro.ipynb](BigData/big_data_intro.ipynb)
+* Distributed Computing
+    - [distributed_parallel_computing.ipynb](BigData/distributed_parallel_computing.ipynb)
+    - [tools_of_distributed_systems.ipynb](BigData/tools_of_distributed_systems.ipynb)
 * MapReduce
-    - [map_reduce.ipynb](BigData/PySpark/map_reduce.ipynb)
-* MapReduce Code
-    - [map_reduce_code.ipynb](BigData/PySpark/map_reduce_code.ipynb)
+    - [map_reduce.ipynb](BigData/MapReduce/map_reduce.ipynb)
+    - [map_reduce_code.ipynb](BigData/MapReduce/map_reduce_code.ipynb)
     
 ### Recordings
 
@@ -268,12 +266,14 @@ Derivatives
 * Graph Theory
     - [graph_theory_basics.ipynb](Mathematics/GraphTheory/graph_theory_basics.ipynb)
     - [paths.ipynb](Mathematics/GraphTheory/paths.ipynb)
-    - [subgroup_clustering.ipynb](Mathematics/GraphTheory/subgroup_clustering.ipynb)
     
 
 ## Module 6 Section 43 - Foundations of Natural Language Processing
 
-* UNDER CONSTRUCTION  
+* NLP Introduction
+    - [intro_to_nlp.ipynb](NLP/intro_to_nlp.ipynb)
+    - [text_processing.ipynb](NLP/text_processing.ipynb)
+    - [feature_extraction.ipynb](NLP/feature_extraction.ipynb)
 
 
 ## Module 6 Section 44 - Introduction to Deep Learning
@@ -299,5 +299,10 @@ Derivatives
 * Optimization
     - [optimizations.ipynb](DeepLearning/NeuralNetworks/optimizations.ipynb)
 
+
+## Moduel Section 49 - Deep NLP - Word Embeddings
+
+* Word Embeddings
+    - [embeddings.ipynb](NLP/embeddings.ipynb)
 
 </details>
