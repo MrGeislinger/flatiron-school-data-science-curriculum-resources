@@ -1,5 +1,9 @@
 # `git_clone.sh`
 
+Recording on using this tool: [https://youtu.be/q0_MMK8AS8E](https://www.youtube.com/watch?v=q0_MMK8AS8E&list=PLVoXE6pv5LIiEuE2Nx6qYTGSnYcSHbjzl)
+
+[![Recording link for using git_clone.sh](https://img.youtube.com/vi/q0_MMK8AS8E/0.jpg)](https://www.youtube.com/watch?v=q0_MMK8AS8E&list=PLVoXE6pv5LIiEuE2Nx6qYTGSnYcSHbjzl)
+
 ## Summary
 
 This script will take a git repository and clone it to your local machine but
