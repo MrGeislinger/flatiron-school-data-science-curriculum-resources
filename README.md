@@ -1,6 +1,33 @@
-# Curriculum (v2.0)
+# Curriculum (v2.1)
 
-> Relevant modules to the v2.0 curriculum
+<details>
+<summary style="font-weight:bold;">Module 1</summary>
+    
+## Module 1 Section 01 - Getting Started with Data Science
+
+* Python 
+    - [core_python.ipynb](CodingBasics/PythonIntro/core_python.ipynb)
+* Coding Conventions
+    - [coding-best-practices.ipynb](CodingBasics/CodingConventions/coding-best-practices.ipynb)
+
+## Module 2 Section 02 - Bash and Git
+
+* Bash Shell (Command Line Interface)
+    - [command-line-basics.ipynb](CommandLine/Unix/command-line-basics.ipynb)
+* Git & GitHub
+    - [git_intro.ipynb](Git/git_intro.ipynb)
+    - [git_collaboration.ipynb](Git/git_collaboration.ipynb)
+    - [github.ipynb](Git/github.ipynb)
+* Extras for Using Git
+    - [Git/Tools/](Git/Tools/)
+
+
+</details>
+
+
+----------------------------
+
+# Curriculum (v2.0)
 
 <details>
 <summary style="font-weight:bold;">Module 3</summary>
