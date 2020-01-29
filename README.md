@@ -16,8 +16,11 @@
     - [command_line_basics.ipynb](CommandLine/Unix/command_line_basics.ipynb)
 * Git & GitHub
     - [git_intro.ipynb](Git/git_intro.ipynb)
-    - [git_collaboration.ipynb](Git/git_collaboration.ipynb)
     - [github.ipynb](Git/github.ipynb)
+    - [git_collaboration.ipynb](Git/git_collaboration.ipynb)
+    - [git_advanced.ipynb](Git/git_advanced.ipynb)
+* Activities
+    - [git_collaboration_activity.ipynb](Git/Activity/git_collaboration_activity.ipynb)
 * Extras for Using Git
     - [Git/Tools/](Git/Tools/)
 
