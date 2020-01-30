@@ -10,7 +10,7 @@
 * Coding Conventions
     - [coding_best_practices.ipynb](CodingBasics/CodingConventions/coding_best_practices.ipynb)
 
-## Module 2 Section 02 - Bash and Git
+## Module 1 Section 02 - Bash and Git
 
 * Bash Shell (Command Line Interface)
     - [command_line_basics.ipynb](CommandLine/Unix/command_line_basics.ipynb)
@@ -24,6 +24,15 @@
 * Extras for Using Git
     - [Git/Tools/](Git/Tools/)
 
+
+## Module 1 Section 03 - Control Flow, Functions, and Statistics
+
+* Control Flow
+    - [core_python.ipynb](CodingBasics/PythonIntro/core_python.ipynb)
+* Functions
+    - [functions.ipynb](CodingBasics/PythonIntro/functions.ipynb)
+* Statistics
+    - [summary_statistics.ipynb](ProbabilityAndStats/StatisticsBasics/summary_statistics.ipynb)
 
 </details>
 
