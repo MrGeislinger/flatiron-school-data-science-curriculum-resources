@@ -33,6 +33,7 @@
     - [functions.ipynb](CodingBasics/PythonIntro/functions.ipynb)
 * Statistics
     - [summary_statistics.ipynb](ProbabilityAndStats/StatisticsBasics/summary_statistics.ipynb)
+    - Correlation & Correlation [linear_regressions_and_simple_relationships.ipynb](DataScienceBasics/LinearRegression/linear_regressions_and_simple_relationships.ipynb)
 
 </details>
 
