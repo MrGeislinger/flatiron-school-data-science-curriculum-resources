@@ -35,6 +35,17 @@
     - [summary_statistics.ipynb](ProbabilityAndStats/StatisticsBasics/summary_statistics.ipynb)
     - Correlation & Correlation [linear_regressions_and_simple_relationships.ipynb](DataScienceBasics/LinearRegression/linear_regressions_and_simple_relationships.ipynb)
 
+## Module 1 Section 04 - Python Libraries: NumPy and Pandas
+
+* NumPy
+    - [intro_to_numpy.ipynb](CodingBasics/NumPy/intro_to_numpy.ipynb)
+    - (OPTIONAL EXTRA) [math_with_tensors.ipynb](Mathematics/LinearAlgebra/math_with_tensors.ipynb)
+    - Activity: [numpy_intro_activity.ipynb](CodingBasics/NumPy/numpy_intro_activity.ipynb)
+* Pandas
+    - [from_numpy_to_pandas.ipynb](DataScienceBasics/Pandas/from_numpy_to_pandas.ipynb)
+    
+
+
 </details>
 
 
