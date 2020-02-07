@@ -6,9 +6,17 @@
 ## Module 1 Section 01 - Getting Started with Data Science
 
 * Python 
-    - [core_python.ipynb](CodingBasics/PythonIntro/core_python.ipynb)
+    - [core_python.ipynb](CodingBasics/Python/core_python.ipynb)
 * Coding Conventions
     - [coding_best_practices.ipynb](CodingBasics/CodingConventions/coding_best_practices.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|The Data Science Process            | 2020-01-23 | [youtu.be/UZlPoaD4Bvw](https://youtu.be/UZlPoaD4Bvw) |
+|Python Basics & Coding Practices  | 2020-01-23 | [youtu.be/uw4in0E8vvE](https://youtu.be/uw4in0E8vvE) |
+
 
 ## Module 1 Section 02 - Bash and Git
 
@@ -23,20 +31,75 @@
     - [git_collaboration_activity.ipynb](Git/Activity/git_collaboration_activity.ipynb)
 * Extras for Using Git
     - [Git/Tools/](Git/Tools/)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Forking a GitHub Repo            | 2020-01-22 | [youtu.be/SOKH8Xni_BE](https://youtu.be/SOKH8Xni_BE) |
+|Copy GitHub Repo Without Forking  | 2020-01-22 | [youtu.be/q0_MMK8AS8E](https://youtu.be/q0_MMK8AS8E) |
+|Command Line Basics       | 2020-01-28 | [youtu.be/Nta5HpFKDRc](https://youtu.be/Nta5HpFKDRc) | 
+|The Git Basics       | 2020-01-28 | [youtu.be/Rx85RNB4gn4](https://youtu.be/Rx85RNB4gn4) | 
+|GitHub Basics with Git       | 2020-01-28 | [youtu.be/VQbMxgm1o](https://youtu.be/VQbMxgm1o) | 
 
 
 ## Module 1 Section 03 - Control Flow, Functions, and Statistics
 
 * Control Flow
-    - [core_python.ipynb](CodingBasics/PythonIntro/core_python.ipynb)
+    - [core_python.ipynb](CodingBasics/Python/core_python.ipynb)
 * Functions
-    - [functions.ipynb](CodingBasics/PythonIntro/functions.ipynb)
+    - [functions.ipynb](CodingBasics/Python/functions.ipynb)
 * Statistics
     - [summary_statistics.ipynb](ProbabilityAndStats/StatisticsBasics/summary_statistics.ipynb)
     - Correlation & Correlation [linear_regressions_and_simple_relationships.ipynb](DataScienceBasics/LinearRegression/linear_regressions_and_simple_relationships.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Python Basics: Lists, Dictionaries, and More | 2020-01-29 | [youtu.be/Mdi1dWzCIZE](https://youtu.be/Mdi1dWzCIZE) |
+|Python Basics: Control Flow             | 2020-01-29 | [youtu.be/q1ZMx9p6dJo](https://youtu.be/q1ZMx9p6dJo) |
+|Python Basics: Functions                | 2020-01-29 | [youtu.be/7pcILR2LtKo](https://youtu.be/7pcILR2LtKo) |
+
+
+## Module 1 Section 04 - Python Libraries: NumPy and Pandas
+
+* NumPy
+    - [intro_to_numpy.ipynb](CodingBasics/NumPy/intro_to_numpy.ipynb)
+    - (OPTIONAL EXTRA) [math_with_tensors.ipynb](Mathematics/LinearAlgebra/math_with_tensors.ipynb)
+    - Activity: [numpy_intro_activity.ipynb](CodingBasics/NumPy/numpy_intro_activity.ipynb)
+* Pandas
+    - [from_numpy_to_pandas.ipynb](DataScienceBasics/Pandas/from_numpy_to_pandas.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|NumPy Intro                             | 2020-02-05 | [youtu.be/Ea5tmWo0e5k](https://youtu.be/Ea5tmWo0e5k) |
+|NumPy Activity                          | 2020-02-05 | [youtu.be/ROiNq5WTjCc](https://youtu.be/ROiNq5WTjCc) |
+|From NumPy to Pandas                    | 2020-02-05 | [youtu.be/Ng_TzUentmk](https://youtu.be/Ng_TzUentmk) |    
+    
+## Module 1 Section 05 - Data Cleaning in Pandas
+
+* Pandas & Data
+    - [from_numpy_to_pandas.ipynb](DataScienceBasics/Pandas/from_numpy_to_pandas.ipynb)
+    - [manipulating_data.ipynb](DataScienceBasics/Pandas/manipulating_data.ipynb)    
+    - [aggregation.ipynb](DataScienceBasics/Pandas/aggregation.ipynb)
+    <!-- TODO and coming soon
+    - [combining_data.ipynb](DataScienceBasics/Pandas/combining_data.ipynb)
+    -->
+* Data Exploration & Cleaning
+    - [data_cleaning_with_pandas_overview.ipynb](DataScienceBasics/Pandas/data_cleaning_with_pandas_overview.ipynb)
+    - [exploring_data.ipynb](DataScienceBasics/Pandas/exploring_data.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Brief Extra: Pandas & Loading Data      | 2020-02-05 | [youtu.be/nr7bi7lVxQ](https://youtu.be/nr7bi7lVxQ) |
+
 
 </details>
-
 
 ----------------------------
 
