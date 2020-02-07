@@ -40,7 +40,7 @@
 |Copy GitHub Repo Without Forking  | 2020-01-22 | [youtu.be/q0_MMK8AS8E](https://youtu.be/q0_MMK8AS8E) |
 |Command Line Basics       | 2020-01-28 | [youtu.be/Nta5HpFKDRc](https://youtu.be/Nta5HpFKDRc) | 
 |The Git Basics       | 2020-01-28 | [youtu.be/Rx85RNB4gn4](https://youtu.be/Rx85RNB4gn4) | 
-|GitHub Basics with Git       | 2020-01-28 | [youtu.be/VQbMxgm1o](https://youtu.be/VQbMxgm1o) | 
+|GitHub Basics with Git       | 2020-01-28 | [youtu.be/F-VQbMxgm1o](https://youtu.be/F-VQbMxgm1o) | 
 
 
 ## Module 1 Section 03 - Control Flow, Functions, and Statistics
@@ -96,7 +96,7 @@
 
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
-|Brief Extra: Pandas & Loading Data      | 2020-02-05 | [youtu.be/nr7bi7lVxQ](https://youtu.be/nr7bi7lVxQ) |
+|Brief Extra: Pandas & Loading Data      | 2020-02-05 | [youtu.be/-nr7bi7lVxQ](https://youtu.be/-nr7bi7lVxQ) |
 
 
 </details>
