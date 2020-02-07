@@ -6,7 +6,7 @@
 ## Module 1 Section 01 - Getting Started with Data Science
 
 * Python 
-    - [core_python.ipynb](CodingBasics/PythonIntro/core_python.ipynb)
+    - [core_python.ipynb](CodingBasics/Python/core_python.ipynb)
 * Coding Conventions
     - [coding_best_practices.ipynb](CodingBasics/CodingConventions/coding_best_practices.ipynb)
 
@@ -28,9 +28,9 @@
 ## Module 1 Section 03 - Control Flow, Functions, and Statistics
 
 * Control Flow
-    - [core_python.ipynb](CodingBasics/PythonIntro/core_python.ipynb)
+    - [core_python.ipynb](CodingBasics/Python/core_python.ipynb)
 * Functions
-    - [functions.ipynb](CodingBasics/PythonIntro/functions.ipynb)
+    - [functions.ipynb](CodingBasics/Python/functions.ipynb)
 * Statistics
     - [summary_statistics.ipynb](ProbabilityAndStats/StatisticsBasics/summary_statistics.ipynb)
     - Correlation & Correlation [linear_regressions_and_simple_relationships.ipynb](DataScienceBasics/LinearRegression/linear_regressions_and_simple_relationships.ipynb)
@@ -44,7 +44,18 @@
 * Pandas
     - [from_numpy_to_pandas.ipynb](DataScienceBasics/Pandas/from_numpy_to_pandas.ipynb)
     
+## Module 1 Section 05 - Data Cleaning in Pandas
 
+* Pandas & Data
+    - [from_numpy_to_pandas.ipynb](DataScienceBasics/Pandas/from_numpy_to_pandas.ipynb)
+    - [manipulating_data.ipynb](DataScienceBasics/Pandas/manipulating_data.ipynb)    
+    - [aggregation.ipynb](DataScienceBasics/Pandas/aggregation.ipynb)
+    <!-- TODO and coming soon
+    - [combining_data.ipynb](DataScienceBasics/Pandas/combining_data.ipynb)
+    -->
+* Data Exploration & Cleaning
+    - [data_cleaning_with_pandas_overview.ipynb](DataScienceBasics/Pandas/data_cleaning_with_pandas_overview.ipynb)
+    - [exploring_data.ipynb](DataScienceBasics/Pandas/exploring_data.ipynb)
 
 </details>
 
