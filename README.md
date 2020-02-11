@@ -98,6 +98,62 @@
 |----------------------------------------|------------|------------------------|
 |Brief Extra: Pandas & Loading Data      | 2020-02-05 | [youtu.be/-nr7bi7lVxQ](https://youtu.be/-nr7bi7lVxQ) |
 
+## Module 1 Section 06 - Data Visualization
+
+* Data Visualization Intro
+    - [motivation.ipynb](DataScienceBasics/Visualization/motivation.ipynb)
+    - [how_to_use_visualizations.ipynb](DataScienceBasics/Visualization/how_to_use_visualizations.ipynb)    
+* Good & Bad Visualizations
+    - [good_visualizations.ipynb](DataScienceBasics/Visualization/good_visualizations.ipynb)
+    - [down_with_pie_chart.ipynb](DataScienceBasics/Visualization/down_with_pie_chart.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|                                        |            | []()                   |
+
+
+## Module 1 Section 07 - SQL and Relational Databases
+
+* Introduction to SQL
+    - [sql_lesson.ipynb](DataEngineering/SQL/sql_lesson.ipynb)
+    - [intro_to_sql.ipynb](DataEngineering/SQL/intro_to_sql.ipynb)
+    - [sql_exercises.ipynb](DataEngineering/SQL/sql_exercises.ipynb)
+    
+
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|                                        |            | []()                   |
+
+## Module 1 Section 08: Other Database structures
+
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|                                        |            | []()                   |
+
+
+## Module 1 Section 09: JSON and APIs
+
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|                                        |            | []()                   |
+
+
+## Module 1 Section 10: HTML, CSS, and Web Scraping
+
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|                                        |            | []()                   |
+
 
 </details>
 
