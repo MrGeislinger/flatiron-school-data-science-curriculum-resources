@@ -116,6 +116,12 @@
 
 ## Module 1 Section 07 - SQL and Relational Databases
 
+* Introduction to SQL
+    - [sql_lesson.ipynb](DataEngineering/SQL/sql_lesson.ipynb)
+    - [intro_to_sql.ipynb](DataEngineering/SQL/intro_to_sql.ipynb)
+    - [sql_exercises.ipynb](DataEngineering/SQL/sql_exercises.ipynb)
+    
+
 ### Recordings
 
 | Title                                  | Date       | URL                    |
