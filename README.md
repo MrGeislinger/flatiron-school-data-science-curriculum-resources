@@ -120,7 +120,10 @@
     - [sql_lesson.ipynb](DataEngineering/SQL/sql_lesson.ipynb)
     - [intro_to_sql.ipynb](DataEngineering/SQL/intro_to_sql.ipynb)
     - [sql_exercises.ipynb](DataEngineering/SQL/sql_exercises.ipynb)
-    
+* More SQL
+    - [using_sql.ipynb](DataEngineering/SQL/using_sql.ipynb)
+    - [joins.ipynb](DataEngineering/SQL/joins.ipynb)
+    - [advanced_topics.ipynb](DataEngineering/SQL/advanced_topics.ipynb)
 
 ### Recordings
 
