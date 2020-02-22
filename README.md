@@ -97,6 +97,8 @@
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
 |Brief Extra: Pandas & Loading Data      | 2020-02-05 | [youtu.be/-nr7bi7lVxQ](https://youtu.be/-nr7bi7lVxQ) |
+|Data Exploration with Pandas            | 2020-02-11 | [youtu.be/W_ey_4uIGQ0](https://youtu.be/W_ey_4uIGQ0) |
+|Data Exploration & Cleaning with Python | 2020-02-11 | [youtu.be/KXNzYfWUoUM](https://youtu.be/KXNzYfWUoUM) |
 
 ## Module 1 Section 06 - Data Visualization
 
@@ -111,7 +113,10 @@
 
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
-|                                        |            | []()                   |
+|Why Should I Visualize Data?            | 2020-02-11 | [youtu.be/AjEdgBRbvUU](https://youtu.be/AjEdgBRbvUU) |
+|Who Are Visualizations For?             | 2020-02-11 | [youtu.be/8t452nMFApc](https://youtu.be/8t452nMFApc) |
+|Visualizations: The Good, The Bad & The Ugly| 2020-02-12 | [youtu.be/yvwyvCt8qAI](https://youtu.be/yvwyvCt8qAI) |
+|Data Exploration Activity               | 2020-02-12 | [youtu.be/XPT6QgMbPos](https://youtu.be/XPT6QgMbPos) |
 
 
 ## Module 1 Section 07 - SQL and Relational Databases
@@ -129,7 +134,12 @@
 
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
-|                                        |            | []()                   |
+|SQL & Realtional Databases Intro        | 2020-02-18 | [youtu.be/Ca-8RRZlLLo](https://youtu.be/Ca-8RRZlLLo) |
+|Running SQL in Python                   | 2020-02-18 | [youtu.be/IjF3bNF-eHc](https://youtu.be/IjF3bNF-eHc) |
+|More SQL & Joining Tables               | 2020-02-18 | [youtu.be/1PXDL-S71Cc](https://youtu.be/1PXDL-S71Cc) |
+|Creating and Updating SQL Databases     | 2020-02-18 | [youtu.be/c8Gyv_LXH8o](https://youtu.be/c8Gyv_LXH8o) |
+|SQL & Execution Order                   | 2020-02-19 | [youtu.be/NJEOpxZP9TI](https://youtu.be/NJEOpxZP9TI) |
+|SQL Subqueries                          | 2020-02-19 | [youtu.be/mAEgY7BGlN8](https://youtu.be/mAEgY7BGlN8) |
 
 ## Module 1 Section 08: Other Database structures
 
@@ -142,11 +152,19 @@
 
 ## Module 1 Section 09: JSON and APIs
 
+* JSON
+    - [json_and_xml_intro.ipynb](DataEngineering/JSONAndXML/json_and_xml_intro.ipynb)
+* APIs
+    - [apis.ipynb](DataEngineering/APIs/apis.ipynb)
+    - [lifx_example.ipynb](DataEngineering/APIs/lifx_example.ipynb)
+
 ### Recordings
 
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
-|                                        |            | []()                   |
+|JSON Data Format for Python             | 2020-02-19 | [youtu.be/EbCjd6OPdvg](https://youtu.be/EbCjd6OPdvg) |
+|APIs with Python                        | 2020-02-19 | [youtu.be/NsfITpjTqAA](https://youtu.be/NsfITpjTqAA) |
+|API Example with LIFX                   | 2020-02-19 | [youtu.be/-zsoxAzkSLU](https://youtu.be/-zsoxAzkSLU) |
 
 
 ## Module 1 Section 10: HTML, CSS, and Web Scraping
