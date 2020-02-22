@@ -113,7 +113,10 @@
 
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
-|                                        |            | []()                   |
+|Why Should I Visualize Data?            | 2020-02-11 | [youtu.be/AjEdgBRbvUU](https://youtu.be/AjEdgBRbvUU) |
+|Who Are Visualizations For?             | 2020-02-11 | [youtu.be/8t452nMFApc](https://youtu.be/8t452nMFApc) |
+|Visualizations: The Good, The Bad & The Ugly| 2020-02-12 | [youtu.be/yvwyvCt8qAI](https://youtu.be/yvwyvCt8qAI) |
+|Data Exploration Activity               | 2020-02-12 | [youtu.be/XPT6QgMbPos](https://youtu.be/XPT6QgMbPos) |
 
 
 ## Module 1 Section 07 - SQL and Relational Databases
