@@ -134,7 +134,12 @@
 
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
-|                                        |            | []()                   |
+|SQL & Realtional Databases Intro        | 2020-02-18 | [youtu.be/Ca-8RRZlLLo](https://youtu.be/Ca-8RRZlLLo) |
+|Running SQL in Python                   | 2020-02-18 | [youtu.be/IjF3bNF-eHc](https://youtu.be/IjF3bNF-eHc) |
+|More SQL & Joining Tables               | 2020-02-18 | [youtu.be/1PXDL-S71Cc](https://youtu.be/1PXDL-S71Cc) |
+|Creating and Updating SQL Databases     | 2020-02-18 | [youtu.be/c8Gyv_LXH8o](https://youtu.be/c8Gyv_LXH8o) |
+|SQL & Execution Order                   | 2020-02-19 | [youtu.be/NJEOpxZP9TI](https://youtu.be/NJEOpxZP9TI) |
+|SQL Subqueries                          | 2020-02-19 | [youtu.be/mAEgY7BGlN8](https://youtu.be/mAEgY7BGlN8) |
 
 ## Module 1 Section 08: Other Database structures
 
