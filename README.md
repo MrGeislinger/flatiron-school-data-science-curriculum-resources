@@ -152,11 +152,19 @@
 
 ## Module 1 Section 09: JSON and APIs
 
+* JSON
+    - [json_and_xml_intro.ipynb](DataEngineering/JSONAndXML/json_and_xml_intro.ipynb)
+* APIs
+    - [apis.ipynb](DataEngineering/APIs/apis.ipynb)
+    - [lifx_example.ipynb](DataEngineering/APIs/lifx_example.ipynb)
+
 ### Recordings
 
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
-|                                        |            | []()                   |
+|JSON Data Format for Python             | 2020-02-19 | [youtu.be/EbCjd6OPdvg](https://youtu.be/EbCjd6OPdvg) |
+|APIs with Python                        | 2020-02-19 | [youtu.be/NsfITpjTqAA](https://youtu.be/NsfITpjTqAA) |
+|API Example with LIFX                   | 2020-02-19 | [youtu.be/-zsoxAzkSLU](https://youtu.be/-zsoxAzkSLU) |
 
 
 ## Module 1 Section 10: HTML, CSS, and Web Scraping
