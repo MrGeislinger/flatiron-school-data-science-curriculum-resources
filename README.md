@@ -97,6 +97,8 @@
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
 |Brief Extra: Pandas & Loading Data      | 2020-02-05 | [youtu.be/-nr7bi7lVxQ](https://youtu.be/-nr7bi7lVxQ) |
+|Data Exploration with Pandas            | 2020-02-11 | [youtu.be/W_ey_4uIGQ0](https://youtu.be/W_ey_4uIGQ0) |
+|Data Exploration & Cleaning with Python | 2020-02-11 | [youtu.be/KXNzYfWUoUM](https://youtu.be/KXNzYfWUoUM) |
 
 ## Module 1 Section 06 - Data Visualization
 
