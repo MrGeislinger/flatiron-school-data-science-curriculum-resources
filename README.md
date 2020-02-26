@@ -169,6 +169,11 @@
 
 ## Module 1 Section 10: HTML, CSS, and Web Scraping
 
+* HTML & CSS
+    - [html_css_intro.ipynb](DataEngineering/WebScraping/html_css_intro.ipynb)
+* Web Scraping
+    - [web_scraping.ipynb](DataEngineering/WebScraping/web_scraping.ipynb)
+
 ### Recordings
 
 | Title                                  | Date       | URL                    |
