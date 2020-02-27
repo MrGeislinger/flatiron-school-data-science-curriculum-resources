@@ -173,12 +173,17 @@
     - [html_css_intro.ipynb](DataEngineering/WebScraping/html_css_intro.ipynb)
 * Web Scraping
     - [web_scraping.ipynb](DataEngineering/WebScraping/web_scraping.ipynb)
+    - [web_scraping_beautiful_soup_activity_00.ipynb](Activities/web_scraping_beautiful_soup_activity_00.ipynb) {**IN PROGRESS**}
 
 ### Recordings
 
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------|
-|                                        |            | []()                   |
+|HTML and CSS Intro for Web Scraping     | 2020-02-26 | [youtu.be/MadMEVGMTUE](https://youtu.be/MadMEVGMTUE) |
+|Intro & Ethics to Web Scraping          | 2020-02-26 | [youtu.be/ceH08GJlIOo](https://youtu.be/ceH08GJlIOo) |
+|Web Scraping with Python & Beautiful Soup| 2020-02-26|[youtu.be/f6lj7xC0Y2g](https://youtu.be/f6lj7xC0Y2g) |
+|Web Scraping Demo: Adventure Time       | 2020-02-26 | [youtu.be/v_a1qUuXd1Y](https://youtu.be/v_a1qUuXd1Y) |
+
 
 
 </details>
