@@ -186,6 +186,13 @@
 
 
 
+## Module 1 Project: Movie Analysis
+
+* Project Details
+    - [mod1_project_notes-pt_012120.ipynb](Projects/MovieAnalysis/mod1_project_notes-pt_012120.ipynb)
+* Advice
+    - [general_advice.ipynb](Projects/general_advice.ipynb)
+
 </details>
 
 ----------------------------
