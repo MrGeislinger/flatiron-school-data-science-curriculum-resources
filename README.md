@@ -195,6 +195,42 @@
 
 </details>
 
+<details>
+<summary style="font-weight:bold;">Module 2</summary>
+    
+## Module 2 Section 11 - Combinatorics and Probability
+
+* Conditional Probability 
+    - [probability_and_notation.ipynb](ProbabilityAndStats/Probability/probability_and_notation.ipynb)
+    - [conditional_probability.ipynb](ProbabilityAndStats/Probability/conditional_probability.ipynb)
+* Combinatorics
+    - [combinatorics.ipynb](ProbabilityAndStats/Probability/combinatorics.ipynb)
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+|Conditional Probability     | 2020-03-17 | [youtu.be/JDgm4Wqsvuw](https://youtu.be/JDgm4Wqsvuw) |
+|Combinatorics               | 2020-03-17 | [youtu.be/hs5EFpUcTzw](https://youtu.be/hs5EFpUcTzw) |
+
+
+## Module 2 Section 12 - Statistical Distributions
+
+* Statistical Distributions
+    - [statistical_distributions_intro.ipynb](ProbabilityAndStats/StatisticalDistributions/statistical_distributions_intro.ipynb)
+    - [statistical_distributions.ipynb](ProbabilityAndStats/StatisticalDistributions/statistical_distributions.ipynb)
+    - [more_statistical_distributions.ipynb](ProbabilityAndStats/StatisticalDistributions/more_statistical_distributions.ipynb)    
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+| Frequency Distributions & More Statistics | 2020-03-19 | [youtu.be/bNUpLoDgLig](https://youtu.be/bNUpLoDgLig) |
+
+
+
+</detials>
+
 ----------------------------
 
 # Curriculum (v2.0)
