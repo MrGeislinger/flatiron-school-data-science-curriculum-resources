@@ -216,6 +216,12 @@
 
 ## Module 2 Section 12 - Statistical Distributions
 
+* Statistical Distributions
+    - [statistical_distributions_intro.ipynb](ProbabilityAndStats/StatisticalDistributions/statistical_distributions_intro.ipynb)
+    - [statistical_distributions.ipynb](ProbabilityAndStats/StatisticalDistributions/statistical_distributions.ipynb)
+    - [more_statistical_distributions.ipynb](ProbabilityAndStats/StatisticalDistributions/more_statistical_distributions.ipynb)
+
+
 </detials>
 
 ----------------------------
