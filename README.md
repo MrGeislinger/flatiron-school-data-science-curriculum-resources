@@ -145,11 +145,6 @@
 
 ### Recordings
 
-| Title                                  | Date       | URL                    |
-|----------------------------------------|------------|------------------------|
-|                                        |            | []()                   |
-
-
 ## Module 1 Section 09: JSON and APIs
 
 * JSON
@@ -226,10 +221,51 @@
 | Title                      | Date       | URL                    |
 |----------------------------|------------|------------------------|
 | Frequency Distributions & More Statistics | 2020-03-19 | [youtu.be/bNUpLoDgLig](https://youtu.be/bNUpLoDgLig) |
+| Review & Other Statistical Distributions | 2020-03-24 | [youtu.be/YRor7gBV9Kw](https://youtu.be/YRor7gBV9Kw) |
+| Even More Statistical Distributions | 2020-03-24 | [youtu.be/dVSnNHKyeAM](https://youtu.be/dVSnNHKyeAM) |
+
+## Module 2 Section 13 - Central Limit Theorem and Confidence Intervals
+
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+| Sampling | 2020-03-24 | [youtu.be/x5KVX3ccbuc](https://youtu.be/x5KVX3ccbuc) |
+| Central Limit Theorem | 2020-03-24 | [youtu.be/c2NDqWrCBno](https://youtu.be/c2NDqWrCBno) |
+| Where Do Confidence Intervals Come From? | 2020-03-26 | [youtu.be/jHLoLCCtumc](https://youtu.be/jHLoLCCtumc) |
 
 
 
-</detials>
+## Module 2 Section 14 - Hypothesis Testing
+
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+| What Makes a Good Experiment? | 2020-03-26 | [youtu.be/746no4_NvRM](https://youtu.be/746no4_NvRM) |
+| Hypothesis Testing Intro | 2020-03-26 | [youtu.be/TE8C-PsZfrw](https://youtu.be/TE8C-PsZfrw) |
+| Hypothesis Testing | 2020-03-31 | [youtu.be/JnO5wKYnNfQ](https://youtu.be/JnO5wKYnNfQ) |
+| The t-Distribution & t-Test | 2020-03-31 | [youtu.be/8zey4ICieg0](https://youtu.be/8zey4ICieg0) |
+| Type 1 vs Type 2 Errors | 2020-03-31 | [youtu.be/1IybE0mXWl4](https://youtu.be/1IybE0mXWl4) |
+
+
+## Module 2 Section 15 - Statistical Power & ANOVA
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+|Effect Size & Statistical Power Relationship | 2020-03-31 | [youtu.be/0HtaoDgOF_A](https://youtu.be/0HtaoDgOF_A) |
+
+
+## Module 2 Section 16 - A/B Testing
+    
+### Recordings
+
+
+</details>
 
 ----------------------------
 
