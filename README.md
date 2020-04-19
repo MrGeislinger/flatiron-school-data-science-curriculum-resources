@@ -258,11 +258,21 @@
 | Title                      | Date       | URL                    |
 |----------------------------|------------|------------------------|
 |Effect Size & Statistical Power Relationship | 2020-03-31 | [youtu.be/0HtaoDgOF_A](https://youtu.be/0HtaoDgOF_A) |
+|Welch's t-Test vs Student's t-Test | 2020-04-01| [youtu.be/QNftsEYSwFA](https://youtu.be/QNftsEYSwFA) |
+|Multiple Comparisons Warning | 2020-04-07| [youtu.be/voHPvSkX3f4](https://youtu.be/voHPvSkX3f4) |
+|Introduction to ANOVA | 2020-04-07| [youtu.be/y1UWYQHw5Jo](https://youtu.be/y1UWYQHw5Jo) |
+|Coding ANOVA: SciPy Method | 2020-04-07| [youtu.be/QnE8sBrKoNU](https://youtu.be/QnE8sBrKoNU) |
+|Coding ANOVA: Statsmodels OLS Method | 2020-04-07| [youtu.be/3cCM0lQFMM4](https://youtu.be/3cCM0lQFMM4) |
 
 
 ## Module 2 Section 16 - A/B Testing
     
 ### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+| A/B Testing | 2020-04-07 | [youtu.be/2DVXuR-2LeA](https://youtu.be/2DVXuR-2LeA) |
+
 
 
 </details>
