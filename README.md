@@ -275,6 +275,42 @@
 
 
 
+## Module 2 Section 17 - Bayesian Statistics
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+
+
+## Module 2 Section 18 - Introduction toLinear Regression
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+|Intro to Linear Regression  | 2020-04-09 | [youtu.be/PBv749p-9yY](https://youtu.be/PBv749p-9yY) |
+
+
+## Module 2 Section 19 - Multiple Linear Regression
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+|Multiple Linear Regression | 2020-04-15| [youtu.be/drbltsGcRNQ](https://youtu.be/drbltsGcRNQ)|
+|Handling Categorical Variables | 2020-04-15| [youtu.be/57Cy58UnKv0](https://youtu.be/57Cy58UnKv0)|
+|Dealing with Multicollinearity | 2020-04-16| [youtu.be/eGSG79vF6_E](https://youtu.be/eGSG79vF6_E)|
+|Validating Models & k-Fold Cross-Validation | 2020-04-16| [youtu.be/nmIxCbv09G0](https://youtu.be/nmIxCbv09G0)|
+
+
+## Module 2 Section 20 - Extensions to Linear Regression
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+
 </details>
 
 ----------------------------
