@@ -258,12 +258,58 @@
 | Title                      | Date       | URL                    |
 |----------------------------|------------|------------------------|
 |Effect Size & Statistical Power Relationship | 2020-03-31 | [youtu.be/0HtaoDgOF_A](https://youtu.be/0HtaoDgOF_A) |
+|Welch's t-Test vs Student's t-Test | 2020-04-01| [youtu.be/QNftsEYSwFA](https://youtu.be/QNftsEYSwFA) |
+|Multiple Comparisons Warning | 2020-04-07| [youtu.be/voHPvSkX3f4](https://youtu.be/voHPvSkX3f4) |
+|Introduction to ANOVA | 2020-04-07| [youtu.be/y1UWYQHw5Jo](https://youtu.be/y1UWYQHw5Jo) |
+|Coding ANOVA: SciPy Method | 2020-04-07| [youtu.be/QnE8sBrKoNU](https://youtu.be/QnE8sBrKoNU) |
+|Coding ANOVA: Statsmodels OLS Method | 2020-04-07| [youtu.be/3cCM0lQFMM4](https://youtu.be/3cCM0lQFMM4) |
 
 
 ## Module 2 Section 16 - A/B Testing
     
 ### Recordings
 
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+| A/B Testing | 2020-04-07 | [youtu.be/2DVXuR-2LeA](https://youtu.be/2DVXuR-2LeA) |
+
+
+
+## Module 2 Section 17 - Bayesian Statistics
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+
+
+## Module 2 Section 18 - Introduction toLinear Regression
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+|Intro to Linear Regression  | 2020-04-09 | [youtu.be/PBv749p-9yY](https://youtu.be/PBv749p-9yY) |
+
+
+## Module 2 Section 19 - Multiple Linear Regression
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+|Multiple Linear Regression | 2020-04-15| [youtu.be/drbltsGcRNQ](https://youtu.be/drbltsGcRNQ)|
+|Handling Categorical Variables | 2020-04-15| [youtu.be/57Cy58UnKv0](https://youtu.be/57Cy58UnKv0)|
+|Dealing with Multicollinearity | 2020-04-16| [youtu.be/eGSG79vF6_E](https://youtu.be/eGSG79vF6_E)|
+|Validating Models & k-Fold Cross-Validation | 2020-04-16| [youtu.be/nmIxCbv09G0](https://youtu.be/nmIxCbv09G0)|
+
+
+## Module 2 Section 20 - Extensions to Linear Regression
+    
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
 
 </details>
 
