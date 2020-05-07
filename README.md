@@ -306,6 +306,9 @@
 
 
 ## Module 2 Section 17 - Bayesian Statistics
+
+* Bayes' Theorem
+    - [bayes_theorem.ipynb](ProbabilityAndStats/BayesianClassification/bayes_theorem.ipynb)
     
 ### Recordings
 
