@@ -317,7 +317,10 @@
 | Bayes' Theorem Followup: Testing Positive Twice | 2020-04-21 | [youtu.be/VgGUngEkYok](https://youtu.be/VgGUngEkYok] |
 
 
-## Module 2 Section 18 - Introduction toLinear Regression
+## Module 2 Section 18 - Introduction to Linear Regression
+
+* Simple Linear Regression
+    - [linear_regressions_and_simple_relationships.ipynb](MachineLearning/LinearRegression/linear_regressions_and_simple_relationships.ipynb)
     
 ### Recordings
 
@@ -327,6 +330,12 @@
 
 
 ## Module 2 Section 19 - Multiple Linear Regression
+
+* Multiple Linear Regression
+    - [multiple_linear_regression.ipynb](MachineLearning/LinearRegression/multiple_linear_regression.ipynb)
+    - [multicollinearity.ipynb](MachineLearning/LinearRegression/multicollinearity.ipynb)
+    - [model_validation.ipynb](EvaluatingModels/model_validation.ipynb)
+    - [linear_regression_example.ipynb](MachineLearning/LinearRegression/linear_regression_example.ipynb)
     
 ### Recordings
 
@@ -339,7 +348,10 @@
 
 
 ## Module 2 Section 20 - Extensions to Linear Regression
-    
+
+* Polynomial & Interacting Terms
+    - [improving_linear_regression.ipynb](MachineLearning/LinearRegression/ExtendingLinearRegression/improving_linear_regression.ipynb)
+
 ### Recordings
 
 | Title                      | Date       | URL                    |
