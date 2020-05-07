@@ -281,6 +281,10 @@
 
 | Title                      | Date       | URL                    |
 |----------------------------|------------|------------------------|
+| Bayesian Thinking          | 2020-04-21 | [youtu.be/odZOxI_3BNI](https://youtu.be/odZOxI_3BNI] |
+| Bayes' Theorem Coding Example: Testing Positive | 2020-04-21 | [youtu.be/yN7BPP25Bvg](https://youtu.be/yN7BPP25Bvg] |
+| Visual of Bayes' Theorem   | 2020-04-21 | [youtu.be/ib1a7c8MrtQ](https://youtu.be/ib1a7c8MrtQ] |
+| Bayes' Theorem Followup: Testing Positive Twice | 2020-04-21 | [youtu.be/VgGUngEkYok](https://youtu.be/VgGUngEkYok] |
 
 
 ## Module 2 Section 18 - Introduction toLinear Regression
