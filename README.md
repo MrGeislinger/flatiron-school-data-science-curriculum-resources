@@ -252,6 +252,10 @@
     - [multiple_comparisons.ipynb](ProbabilityAndStats/ExperimentalDesign/multiple_comparisons.ipynb)
 * Statistical Tests
     - [statistical_tests.ipynb](ProbabilityAndStats/ExperimentalDesign/statistical_tests.ipynb)
+    - [types_of_errors.ipynb](ProbabilityAndStats/ExperimentalDesign/types_of_errors.ipynb)
+* t-Tests
+    - [t_distributions.ipynb](ProbabilityAndStats/StatisticalDistributions/t_distributions.ipynb)
+    - [t_tests.ipynb](ProbabilityAndStats/ExperimentalDesign/t_tests.ipynb)
     
 ### Recordings
 
@@ -265,6 +269,15 @@
 
 
 ## Module 2 Section 15 - Statistical Power & ANOVA
+
+* Parts of Hypothesis Tests
+    - [types_of_errors.ipynb](ProbabilityAndStats/ExperimentalDesign/types_of_errors.ipynb)
+    - [statistical_power.ipynb](ProbabilityAndStats/ExperimentalDesign/statistical_power.ipynb)
+    - [effect_size.ipynb](ProbabilityAndStats/ExperimentalDesign/effect_size.ipynb)
+* Welch's t-test & ANOVA
+    - [welchs_t_test.ipynb](ProbabilityAndStats/ExperimentalDesign/welchs_t_test.ipynb)
+    - [multiple_comparisons.ipynb](ProbabilityAndStats/ExperimentalDesign/multiple_comparisons.ipynb)
+    - [anova.ipynb](ProbabilityAndStats/ExperimentalDesign/anova.ipynb)
     
 ### Recordings
 
@@ -279,7 +292,11 @@
 
 
 ## Module 2 Section 16 - A/B Testing
-    
+
+* A/B Testing
+    - [ab_testing.ipynb](ProbabilityAndStats/ExperimentalDesign/ab_testing.ipynb)
+    - [ab_test_walkthrough.ipynb](ProbabilityAndStats/ExperimentalDesign/ab_test_walkthrough.ipynb)
+
 ### Recordings
 
 | Title                      | Date       | URL                    |
