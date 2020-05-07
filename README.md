@@ -314,6 +314,7 @@
 
 | Title                      | Date       | URL                    |
 |----------------------------|------------|------------------------|
+| Extending Linear Regression: Polynomial & Interacting Terms | 2020-04-22 | [youtu.be/QbkwZ9cCb8I](https://youtu.be/QbkwZ9cCb8I] |
 
 </details>
 
