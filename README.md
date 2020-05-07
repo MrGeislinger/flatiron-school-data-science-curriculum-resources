@@ -226,6 +226,11 @@
 
 ## Module 2 Section 13 - Central Limit Theorem and Confidence Intervals
 
+* Central Limit Theorem
+    - [sampling.ipynb](ProbabilityAndStats/StatisticalDistributions/sampling.ipynb)
+    - [central_limit_theorem.ipynb](ProbabilityAndStats/StatisticalDistributions/central_limit_theorem.ipynb)
+* Confidence Intervals
+    - [confidence_intervals.ipynb](ProbabilityAndStats/StatisticalDistributions/confidence_intervals.ipynb)
     
 ### Recordings
 
@@ -239,6 +244,18 @@
 
 ## Module 2 Section 14 - Hypothesis Testing
 
+* Experiment Design
+    - [experiment_design_intro.ipynb](ProbabilityAndStats/ExperimentalDesign/experiment_design_intro.ipynb)
+    - [hypothesis_testing_intro.ipynb](ProbabilityAndStats/ExperimentalDesign/hypothesis_testing_intro.ipynb)
+* Considerations
+    - [warnings.ipynb](ProbabilityAndStats/ExperimentalDesign/warnings.ipynb)
+    - [multiple_comparisons.ipynb](ProbabilityAndStats/ExperimentalDesign/multiple_comparisons.ipynb)
+* Statistical Tests
+    - [statistical_tests.ipynb](ProbabilityAndStats/ExperimentalDesign/statistical_tests.ipynb)
+    - [types_of_errors.ipynb](ProbabilityAndStats/ExperimentalDesign/types_of_errors.ipynb)
+* t-Tests
+    - [t_distributions.ipynb](ProbabilityAndStats/StatisticalDistributions/t_distributions.ipynb)
+    - [t_tests.ipynb](ProbabilityAndStats/ExperimentalDesign/t_tests.ipynb)
     
 ### Recordings
 
@@ -252,6 +269,15 @@
 
 
 ## Module 2 Section 15 - Statistical Power & ANOVA
+
+* Parts of Hypothesis Tests
+    - [types_of_errors.ipynb](ProbabilityAndStats/ExperimentalDesign/types_of_errors.ipynb)
+    - [statistical_power.ipynb](ProbabilityAndStats/ExperimentalDesign/statistical_power.ipynb)
+    - [effect_size.ipynb](ProbabilityAndStats/ExperimentalDesign/effect_size.ipynb)
+* Welch's t-test & ANOVA
+    - [welchs_t_test.ipynb](ProbabilityAndStats/ExperimentalDesign/welchs_t_test.ipynb)
+    - [multiple_comparisons.ipynb](ProbabilityAndStats/ExperimentalDesign/multiple_comparisons.ipynb)
+    - [anova.ipynb](ProbabilityAndStats/ExperimentalDesign/anova.ipynb)
     
 ### Recordings
 
@@ -266,7 +292,11 @@
 
 
 ## Module 2 Section 16 - A/B Testing
-    
+
+* A/B Testing
+    - [ab_testing.ipynb](ProbabilityAndStats/ExperimentalDesign/ab_testing.ipynb)
+    - [ab_test_walkthrough.ipynb](ProbabilityAndStats/ExperimentalDesign/ab_test_walkthrough.ipynb)
+
 ### Recordings
 
 | Title                      | Date       | URL                    |
@@ -276,14 +306,24 @@
 
 
 ## Module 2 Section 17 - Bayesian Statistics
+
+* Bayes' Theorem
+    - [bayes_theorem.ipynb](ProbabilityAndStats/BayesianClassification/bayes_theorem.ipynb)
     
 ### Recordings
 
 | Title                      | Date       | URL                    |
 |----------------------------|------------|------------------------|
+| Bayesian Thinking          | 2020-04-21 | [youtu.be/odZOxI_3BNI](https://youtu.be/odZOxI_3BNI] |
+| Bayes' Theorem Coding Example: Testing Positive | 2020-04-21 | [youtu.be/yN7BPP25Bvg](https://youtu.be/yN7BPP25Bvg] |
+| Visual of Bayes' Theorem   | 2020-04-21 | [youtu.be/ib1a7c8MrtQ](https://youtu.be/ib1a7c8MrtQ] |
+| Bayes' Theorem Followup: Testing Positive Twice | 2020-04-21 | [youtu.be/VgGUngEkYok](https://youtu.be/VgGUngEkYok] |
 
 
-## Module 2 Section 18 - Introduction toLinear Regression
+## Module 2 Section 18 - Introduction to Linear Regression
+
+* Simple Linear Regression
+    - [linear_regressions_and_simple_relationships.ipynb](MachineLearning/LinearRegression/linear_regressions_and_simple_relationships.ipynb)
     
 ### Recordings
 
@@ -293,6 +333,12 @@
 
 
 ## Module 2 Section 19 - Multiple Linear Regression
+
+* Multiple Linear Regression
+    - [multiple_linear_regression.ipynb](MachineLearning/LinearRegression/multiple_linear_regression.ipynb)
+    - [multicollinearity.ipynb](MachineLearning/LinearRegression/multicollinearity.ipynb)
+    - [model_validation.ipynb](EvaluatingModels/model_validation.ipynb)
+    - [linear_regression_example.ipynb](MachineLearning/LinearRegression/linear_regression_example.ipynb)
     
 ### Recordings
 
@@ -305,11 +351,15 @@
 
 
 ## Module 2 Section 20 - Extensions to Linear Regression
-    
+
+* Polynomial & Interacting Terms
+    - [improving_linear_regression.ipynb](MachineLearning/LinearRegression/ExtendingLinearRegression/improving_linear_regression.ipynb)
+
 ### Recordings
 
 | Title                      | Date       | URL                    |
 |----------------------------|------------|------------------------|
+| Extending Linear Regression: Polynomial & Interacting Terms | 2020-04-22 | [youtu.be/QbkwZ9cCb8I](https://youtu.be/QbkwZ9cCb8I] |
 
 </details>
 
