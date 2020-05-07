@@ -226,6 +226,11 @@
 
 ## Module 2 Section 13 - Central Limit Theorem and Confidence Intervals
 
+* Central Limit Theorem
+    - [sampling.ipynb](ProbabilityAndStats/StatisticalDistributions/sampling.ipynb)
+    - [central_limit_theorem.ipynb](ProbabilityAndStats/StatisticalDistributions/central_limit_theorem.ipynb)
+* Confidence Intervals
+    - [confidence_intervals.ipynb](ProbabilityAndStats/StatisticalDistributions/confidence_intervals.ipynb)
     
 ### Recordings
 
@@ -239,6 +244,14 @@
 
 ## Module 2 Section 14 - Hypothesis Testing
 
+* Experiment Design
+    - [experiment_design_intro.ipynb](ProbabilityAndStats/ExperimentalDesign/experiment_design_intro.ipynb)
+    - [hypothesis_testing_intro.ipynb](ProbabilityAndStats/ExperimentalDesign/hypothesis_testing_intro.ipynb)
+* Considerations
+    - [warnings.ipynb](ProbabilityAndStats/ExperimentalDesign/warnings.ipynb)
+    - [multiple_comparisons.ipynb](ProbabilityAndStats/ExperimentalDesign/multiple_comparisons.ipynb)
+* Statistical Tests
+    - [statistical_tests.ipynb](ProbabilityAndStats/ExperimentalDesign/statistical_tests.ipynb)
     
 ### Recordings
 
