@@ -51,7 +51,7 @@
     - [functions.ipynb](CodingBasics/Python/functions.ipynb)
 * Statistics
     - [summary_statistics.ipynb](ProbabilityAndStats/StatisticsBasics/summary_statistics.ipynb)
-    - Correlation & Correlation [linear_regressions_and_simple_relationships.ipynb](DataScienceBasics/LinearRegression/linear_regressions_and_simple_relationships.ipynb)
+    - Correlation & Correlation [linear_regressions_and_simple_relationships.ipynb](MachineLearning/LinearRegression/linear_regressions_and_simple_relationships.ipynb)
     
 ### Recordings
 
