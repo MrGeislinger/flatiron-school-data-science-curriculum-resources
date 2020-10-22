@@ -537,6 +537,14 @@ Derivatives
     - [ensemble_methods.ipynb](MachineLearning/Ensembles/ensemble_methods.ipynb)
     - [bagging.ipynb](MachineLearning/Ensembles/bagging.ipynb)
     - [boosting.ipynb](MachineLearning/Ensembles/boosting.ipynb)
+### Recordings
+
+| Title                      | Date       | URL                    |
+|----------------------------|------------|------------------------|
+| Ensemble Machine Learning: Bagging & Boosting | 2019-10-24 | [youtu.be/xI-XdP2FLis](https://youtu.be/xI-XdP2FLis] |
+| Machine Learning with Ensembles: Bagging & Boosting | 2020-09-21 | [youtu.be/nIYnh6uAun0](https://youtu.be/nIYnh6uAun0] |
+| Ensemble Methods in Machine Learning: Bagging & Boosting | 2019-11-08 | [youtu.be/j1B1k1PZ8Wg](https://youtu.be/j1B1k1PZ8Wg] |
+
 
 
 ## Module 5 Section 36 - Support Vector Machines
