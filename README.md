@@ -1,3 +1,55 @@
+# Cohort FT-011121
+
+<details>
+<summary style="font-weight:bold;">Phase 1</summary>
+    
+## Phase 1 Topic 01 - Getting Started with Data Science
+
+* Data Science 
+    - [DataScienceIntro.ipynb](DataScienceBasics/DataScienceIntro.ipynb)
+
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Introduction to Data Science            | 2021-01-11 | [youtu.be/R7pM6SluD60](https://youtu.be/R7pM6SluD60) |
+
+## Phase 1 Topic 02 - Bash and Git
+
+* Bash
+    - [command_line_basics.ipynb](CommandLine/Unix/command_line_basics.ipynb)
+* Git \& GitHub
+    - [git_intro.ipynb](Git/git_intro.ipynb)
+    - [github.ipynb](Git/github.ipynb)
+    - [Git Tools](Git/Tools)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------|
+|Command Line Basics                     | 2021-01-11 | [youtu.be/fjZFp2oTveg](https://youtu.be/fjZFp2oTveg) |
+|Intro to Using Git with GitHub          | 2021-01-12 | [youtu.be/GGh9X5Iby10](https://youtu.be/GGh9X5Iby10) |    
+
+
+## Phase 1 Topic 03 - Control Flow, Functions, and Statistics
+
+* Python 
+    - [core_python.ipynb](CodingBasics/Python/core_python.ipynb)
+* Coding Conventions
+    - [coding_best_practices.ipynb](CodingBasics/CodingConventions/coding_best_practices.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|Python Conventions \& Best Practices    | 2021-01-11 | [youtu.be/3YxS_5dW3aY](https://youtu.be/3YxS_5dW3aY) |
+|Python Basics                           | 2021-01-11 | [youtu.be/0ffOdnVmjHg](https://youtu.be/0ffOdnVmjHg) |
+|Some More Python Basics: Control Flow   | 2021-01-12 | [youtu.be/iLrqpbZvWb0](https://youtu.be/iLrqpbZvWb0) |
+|More Python: Functions                  | 2021-01-13 | [youtu.be/FrklluKZWHw](https://youtu.be/FrklluKZWHw) |
+
+</details>
+
+
 # Curriculum (v2.1)
 
 <details>
