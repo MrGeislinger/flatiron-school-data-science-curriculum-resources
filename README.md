@@ -47,6 +47,38 @@
 |Some More Python Basics: Control Flow   | 2021-01-12 | [youtu.be/iLrqpbZvWb0](https://youtu.be/iLrqpbZvWb0) |
 |More Python: Functions                  | 2021-01-13 | [youtu.be/FrklluKZWHw](https://youtu.be/FrklluKZWHw) |
 
+    
+## Phase 1 Topic 04 - Python Libraries: Numpy and Pandas
+
+* NumPy 
+    - [intro_to_numpy.ipynb](CodingBasics/NumPy/intro_to_numpy.ipynb)
+    - [numpy_intro_activity.ipynb](CodingBasics/NumPy/numpy_intro_activity.ipynb)
+* Pandas
+    - [from_numpy_to_pandas.ipynb](DataScienceBasics/Pandas/from_numpy_to_pandas.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|Intro to NumPy                          | 2021-01-13 | [youtu.be/-z-n8Hrtvl8](https://youtu.be/-z-n8Hrtvl8) |
+|Intro to Pandas from NumPy              | 2021-01-15 | [youtu.be/S7p2w4cXc9o](https://youtu.be/S7p2w4cXc9o) |
+    
+## Phase 1 Topic 05 - Data Cleaning in Pandas
+
+* Data Cleaning
+    - [manipulating_data.ipynb](DataScienceBasics/Pandas/manipulating_data.ipynb)
+    - [exploring_data.ipynb](DataScienceBasics/Pandas/exploring_data.ipynb)
+    - [data_cleaning_with_pandas_overview.ipynb](DataScienceBasics/Pandas/data_cleaning_with_pandas_overview.ipynb)
+* Aggregation
+    - [aggregation.ipynb](DataScienceBasics/Pandas/aggregation.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|More Pandas: Exploring and Manipulating Data | 2021-01-19 | [youtu.be/m67HtpXYv3U](https://youtu.be/m67HtpXYv3U) |
+ 
+
 </details>
 
 
