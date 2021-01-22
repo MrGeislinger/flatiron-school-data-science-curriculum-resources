@@ -79,7 +79,26 @@
 |More Pandas: Exploring and Manipulating Data | 2021-01-19 | [youtu.be/m67HtpXYv3U](https://youtu.be/m67HtpXYv3U) |
  
 
+## Phase 1 Topic 06 - Data Visualization
+
+* Warmup
+    - [visualization_warmup.ipynb](DataScienceBasics/Visualization/visualization_warmup.ipynb)
+* Data Visualization
+    - [motivation.ipynb](DataScienceBasics/Visualization/motivation.ipynb)
+    - [how_to_use_visualizations.ipynb](DataScienceBasics/Visualization/how_to_use_visualizations.ipynb)
+    - [good_visualizations.ipynb](DataScienceBasics/Visualization/good_visualizations.ipynb)
+    - [down_with_pie_chart.ipynb](DataScienceBasics/Visualization/down_with_pie_chart.ipynb)
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|Concepts of Data Visualization          | 2021-01-20 | [youtu.be/AxlWpplunVo](https://youtu.be/AxlWpplunVo) |
+ 
+
 </details>
+
+----------------------------
 
 
 # Curriculum (v2.1)
