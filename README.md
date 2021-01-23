@@ -94,7 +94,30 @@
 | Title                                  | Date       | URL                    |
 |----------------------------------------|------------|------------------------| 
 |Concepts of Data Visualization          | 2021-01-20 | [youtu.be/AxlWpplunVo](https://youtu.be/AxlWpplunVo) |
- 
+
+
+## Phase 1 Topic 07 - SQL and Relational Databases \& Phase 1 Topic 08 - Other Database Structures
+
+* SQL
+    - [intro_to_sql.ipynb](DataEngineering/SQL/intro_to_sql.ipynb)
+    - [using_sql.ipynb](DataEngineering/SQL/using_sql.ipynb)
+    - [sql_lesson.ipynb](DataEngineering/SQL/sql_lesson.ipynb)
+    - [sql_exercises.ipynb](DataEngineering/SQL/sql_exercises.ipynb)
+    - [joins.ipynb](DataEngineering/SQL/joins.ipynb)
+    - [advanced_topics.ipynb](DataEngineering/SQL/advanced_topics.ipynb)
+* SQLite
+    - [sqlalchemy.ipynb](DataEngineering/SQLite/sqlalchemy.ipynb)
+    - [sqlite.ipynb](DataEngineering/SQLite/sqlite.ipynb)    
+* NoSQL
+    - [nosql_intro.ipynb](DataEngineering/NoSQL/nosql_intro.ipynb)
+    - [mongodb.ipynb](DataEngineering/NoSQL/mongodb.ipynb) 
+    
+### Recordings
+
+| Title                                  | Date       | URL                    |
+|----------------------------------------|------------|------------------------| 
+|SQL with Python \& Pandas               | 2021-01-22 | [youtu.be/VFN89HOa9m0](https://youtu.be/VFN89HOa9m0) |
+
 
 </details>
 
